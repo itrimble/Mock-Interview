@@ -13,3 +13,11 @@ What is the culture like?
 What is keeping you here ?
 Where do you think the company can improve ?
 Can you give me an example of when the leadershp went above and beyond your expectations ?
+
+
+
+How much are you worth ?
+Websites
+Glassdoor  https://glassdoor.com
+Salary.com https://salary.com
+https://www.levels.fyi/?compare=Google,Facebook,Microsoft&track=Software%20Engineer
