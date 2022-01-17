@@ -66,3 +66,13 @@ What was your most challening class ?
 What was the call you liked the most ?
 What class grabbed you / spoke to you the best ?
 Ex:  Cloud is someone's servers.  
+
+
+Situational Question:
+You get a ticket and find malware on it.  The user swears they didn't do anything. 
+The logs tell you they were the caues of the malware.  How would you handle that situation?
+Possible Answers:  They did not lock their keyboard.  
+Wrong answer: Don't blame the user directly. 
+
+When security gets in the way of business, who is wrong ?  Security of the busines..
+
