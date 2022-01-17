@@ -75,4 +75,46 @@ Possible Answers:  They did not lock their keyboard.
 Wrong answer: Don't blame the user directly. 
 
 When security gets in the way of business, who is wrong ?  Security of the busines..
+What would you use traceroute for ?
+When would you want to use Windows Server-Core vs. Windows Server w/Gui ?
+Smaller Footpirnt, Reduced Attack Surface, More Resource Efficient often Managed with RSAT
+Does Windows Server / Active Directory use DNS ?
+
+What is the difference between a hybrid cloud and a public cloud?
+Hybrid Cloud can be used by public and private.  Private Cloud is used by organization.
+Give me an example of SAAS ?  Office 365, Dropbox, Sharefile, OneDrive.  Adobe Creative Cloud
+How do you find out where you are in Linux from the CLI ? PWD
+How do you create a file in Linux ?  Touch file 1 file 2
+What port is remote desktop on ? 3389
+What port is SSL on?
+What port is SSH on ?  22
+What is more secure HTTPS vs HTML ?
+
+If you were to start a security awareness program?  Where would you start and think would be the biggest impact ?
+Start with people education.  You can make the program secure ?
+
+
+Cybersecurity Analyst Questions
+How good are you at Splunk ?
+How good are you at ELK ?
+
+Download Security Onion - Doug Burks
+https://www.amazon.com/Security-Onion-Documentation-Doug-Burks/dp/B088GGHDV6?dchild=1
+
+Attack 
+Atomic Red Team
+https://github.com/redcanaryco/atomic-red-team
+
+FlareVM
+https://github.com/mandiant/flare-vm
+
+Intall Alienvault OTX into Splunk
+https://splunkbase.splunk.com/app/5878/
+
+Infosec App for Splunk  (Teach you what to look for as Analyst)
+https://splunkbase.splunk.com/app/4240/
+
+
+
+
 
