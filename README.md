@@ -50,3 +50,15 @@ Do you have a portfolio?
 
 What Skillsets Do You Want To Work On ?
 DLP, SIEM, Threat Hunting, Endpoint (AV, EDR)
+
+
+What got you into cybersecurity ?
+
+
+What sectors are big where you live ?
+
+Are you targetign the healthcare sector ?
+Are you targeting the energy sector ?
+
+Lean in on the customer service skills you have already developed.
+
