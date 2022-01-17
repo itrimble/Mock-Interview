@@ -62,3 +62,7 @@ Are you targeting the energy sector ?
 
 Lean in on the customer service skills you have already developed.
 
+What was your most challening class ?
+What was the call you liked the most ?
+What class grabbed you / spoke to you the best ?
+Ex:  Cloud is someone's servers.  
