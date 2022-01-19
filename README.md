@@ -94,6 +94,15 @@ If you were to start a security awareness program?  Where would you start and th
 Start with people education.  You can make the program secure ?
 
 
+What is your flexible work option look like ?
+What are the expectiations of the job ?   
+If travel is a priority make sure that you discuss this with your employer ?
+
+What are the perks ?  Is there money for faster internet ?  Is there money for certifications ?  Is there more money for hardware for the office equipment?
+Have you done information about the Hiring Manager ?
+
+Management styles have had to change.  Job seekers now, need to be prepared to see counter offers.  
+
 Cybersecurity Analyst Questions
 How good are you at Splunk ?
 How good are you at ELK ?
