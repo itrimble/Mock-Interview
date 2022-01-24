@@ -144,3 +144,9 @@ What is something I can take off your plate, to free you up not he big picture i
 
 If you were designing your enterprise users, would you give your usreers administrative access ?
 
+
+What tools would you use to look for persistence mechanisms ?
+Autoruns, Task Scheduler, Registry,
+Bootsectors, Rootkits activity.
+
+
