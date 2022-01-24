@@ -150,3 +150,7 @@ Autoruns, Task Scheduler, Registry,
 Bootsectors, Rootkits activity.
 
 
+You find a user has cleared a log on their computer?
+How would you investigate this event ?  What is your methodology ?
+
+
