@@ -123,7 +123,23 @@ https://splunkbase.splunk.com/app/5878/
 Infosec App for Splunk  (Teach you what to look for as Analyst)
 https://splunkbase.splunk.com/app/4240/
 
+**
+Questions for the Infosec / It Recruiter**
+Ask the recruiter what to expect.
 
 
+Do you have questions the hiring manager likes to ask ?
+- key qualities the hiring manager is looking for in candidates 
+- additional background on the hiring manager (interests, demeanor, etc.)
+- additional clarity if a project/case study/presentation is required as part of the process
+what does the company as a whole attaches importance to as far as key traits and cultural fit?
+Do you have a standard email that you send to each candidate with "questions to be prepared to answer" as well as "potential questions to ask" just to help them out
+Do you have a series of questions that I should be prepared to answer?
+
+What problems are you trying to solve at the moment ?
+What are your biggest pain points ?
+"What's the first project you'd like to see me take on as part of this role? What would help you most?"
+"What would surprise me about working with your (company/team/organization)?
+What is something I can take off your plate, to free you up not he big picture items ? 
 
 
