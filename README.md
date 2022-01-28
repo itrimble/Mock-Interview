@@ -166,3 +166,8 @@ Tips:
 What is your story arc ?  Who are the heroes and the villains ?  How did you overcome failure ?
 Do you follow the STAR method?
 
+
+Have you ever been through an incident ?
+How did you handle SolarWinds ?
+How did you handle Log4j ?
+Do you have a ransomware playbook / strategy ?
