@@ -154,3 +154,11 @@ You find a user has cleared a log on their computer?
 How would you investigate this event ?  What is your methodology ?
 
 
+Do you have an up to date asset inventory ?
+Do you have a CMDB ?
+Is your asset inventory your vulnerability scanner or do you have something professional ?
+How are you currently mapping risk ?  To what controls ?
+
+How do you measure success in your company ? 
+
+
