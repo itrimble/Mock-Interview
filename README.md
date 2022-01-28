@@ -162,3 +162,7 @@ How are you currently mapping risk ?  To what controls ?
 How do you measure success in your company ? 
 
 
+Tips:
+What is your story arc ?  Who are the heroes and the villains ?  How did you overcome failure ?
+Do you follow the STAR method?
+
