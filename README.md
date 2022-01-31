@@ -171,3 +171,5 @@ Have you ever been through an incident ?
 How did you handle SolarWinds ?
 How did you handle Log4j ?
 Do you have a ransomware playbook / strategy ?
+
+
