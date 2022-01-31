@@ -3,76 +3,78 @@
 
 **Current Realities of the market**
 Management styles have had to change. Job seekers now, need to be prepared to see counter offers.
-Security + is the minium cert needed for an entry level job.
+[Security +](https://www.comptia.org/certifications/security) is the minium cert needed for an entry level job.
 Have you done research information about the Hiring Manager ?
 If travel is a priority make sure that you discuss this with your employer / hiring manager / recruiter.
 
 **Salary Information:**
-How much are you worth ?
-Websites
-[Glassdoor](https://glassdoor.com) 
-[Salary.com](https://salary.com https://www.levels.fyi/?compare=Google,Facebook,Microsoft&track=Software%20Engineer) 
-What is the salary range?
-Are there (RSU) - Restricted Stock Units ? Is there a relocation package?  
-Is there an annual bonus?
+Ask yourself, how much are you worth ?
+
+**Websites**
+1.  [Glassdoor](https://glassdoor.com) 
+2.  [Salary.com](https://salary.com https://www.levels.fyi/?compare=Google,Facebook,Microsoft&track=Software%20Engineer) 
+
+
+**Questions to ask about Salary**
+1.  What is the salary range?
+2.  Are there (RSU) - Restricted Stock Units ?
+3.  Is there a relocation package?  
+    Is there an annual bonus?
+4.  Are there annual merit increases?
+
+
 
 Salary pay ranges differ depending on where you live.  Salaries in the FAANG (Facebok, Apple, Amazon, Netflix, Google) tend to pay alot more than salaries in the middle of the country.  Salaries on the East Coast, Atlanta, NY, also tend to be higher.
 
 **Culture Questions:**
-What is the culture like?
-What is keeping you here ?
-Where do you think the company can improve?
-Can you give me an example of when the leadership went above and beyond your expectations?
+1.  What is the culture like?
+2.  What is keeping you here ?
+3.  Where do you think the company can improve?
+4.  Can you give me an example of when the leadership went above and beyond your expectations?
+
 
 **Mock Interview Questions**
 
-What type of job do your want ? IT Audit GRC Security Engineer / Security Operations / Threat Defense Engineering SOC Analyist \[Tier1, Tier2, Tier3\] Penetration Testing Threat Hunter Threat Intel Analyst
-Do you want to work for an MSSP ? (Managed Security Service Provider) How do you feel about being a SE (Sales Engineer)
-Do you have a home lab?
-Do you have a portfolio?
-What Skillsets Do You Want To Work On ? DLP, SIEM, Threat Hunting, Endpoint (AV, EDR)
-What got you into cybersecurity?
-What sectors are big where you live?
-Is this a backfill?
-Is this a new role?
-Are you targeting the healthcare sector ? Are you targeting the energy sector?
-Lean in on the customer service skills you have already developed.
-What was your most challenging class ? What was the call you liked the most? What class grabbed you / spoke to you the best? Ex: Cloud is someone's servers.
-What would you use traceroute for ? When would you want to use Windows Server-Core vs. Windows Server w/Gui ? Smaller Footpirnt, Reduced Attack Surface, More Resource Efficient often Managed with RSAT
-Does Windows Server / Active Directory use DNS ?
-What is the difference between a hybrid cloud and a public cloud? Hybrid Cloud can be used by public and private. Private Cloud is used by organization.
-Give me an example of SAAS ? Office 365, Dropbox, Sharefile, OneDrive. Adobe Creative Cloud How do you find out where you are in Linux from the CLI ? PWD
-How do you create a file in Linux ? Touch file 1 file 2
-What port is remote desktop on ? 3389
-What port is SSL on? What port is SSH on ? 22
-What is more secure HTTPS vs HTML ?
-What is your flexible work option look like ? What are the expectations of the job ?  
-What are the perks ?
-Is there money for faster internet ?
-Is there money for certifications?
-Is there more money for hardware for the office equipment?
+1.  What type of job do your want ? IT Audit GRC Security Engineer / Security Operations / Threat Defense Engineering SOC Analyist \[Tier1, Tier2, Tier3\] Penetration Testing Threat Hunter Threat Intel Analyst
+2.  Do you want to work for an MSSP ? (Managed Security Service Provider) How do you feel about being a SE (Sales Engineer)
+3.  Do you have a home lab?
+4.  Do you have a portfolio?
+5.  What Skillsets Do You Want To Work On ? DLP, SIEM, Threat Hunting, Endpoint (AV, EDR)
+6.  What got you into cybersecurity?
+7.  What sectors are big where you live?
+8.  Is this a backfill?
+9.  Is this a new role?
+10.  Are you targeting the healthcare sector ? Are you targeting the energy sector?
+11.  Lean in on the customer service skills you have already developed.
+12.  What was your most challenging class ? What was the call you liked the most? What class grabbed you / spoke to you the best? Ex: Cloud is someone's servers.
+13.  What would you use traceroute for ? When would you want to use Windows Server-Core vs. Windows Server w/Gui ? Smaller Footpirnt, Reduced Attack Surface, More Resource Efficient often Managed with RSAT
+14.  Does Windows Server / Active Directory use DNS ?
+15.  What is the difference between a hybrid cloud and a public cloud? Hybrid Cloud can be used by public and private. Private Cloud is used by organization.
+16.  Give me an example of SAAS ? Office 365, Dropbox, Sharefile, OneDrive. Adobe Creative Cloud How do you find out where you are in Linux from the CLI ? PWD
+17.  How do you create a file in Linux ? Touch file 1 file 2
+18.  What port is remote desktop on ? 3389
+19.  What port is SSL on? What port is SSH on ? 22
+20.  What is more secure HTTPS vs HTML ?
+21.  What is your flexible work option look like ? What are the expectations of the job ?  
+    What are the perks ?
+22.  Is there money for faster internet ?
+23.  Is there money for certifications?
+24.  Is there more money for hardware for the office equipment?
 
 
 
-**Situational Question**: *You get a ticket and find malware on it. The user swears they didn't do anything. The logs tell you they were the cause of the malware. How would you handle that situation?* Possible Answers: They did not lock their keyboard.  
+
+**Situational Question**:
+
+
 **Wrong answer: Don't blame the user directly.**
 
 1.  *When security gets in the way of business, who is wrong ?* Security should be seen as a business enabler
 2.  *If you were to start a security awareness program where would you start and think would be the biggest impact ?* Start with people education. You can make the program secure.
 3.  *If you were designing your enterprise users, would you give your users administrative access?*
 4.  *You find a user has cleared a log on their computer? How would you investigate this event? What is your methodology?*
+5.  *You get a ticket and find malware on it. The user swears they didn't do anything. The logs tell you they were the cause of the malware. How would you handle that situation? Possible Answers: They did not lock their keyboard.*
 
-
-
-
-**Cybersecurity Analyst Questions**
-How good are you at Splunk ? How good are you at ELK ?
-Download Security Onion Book - Doug Burks
-Download [Security Onion](https://securityonionsolutions.com)
-[Attack Atomic Red Team](https://github.com/redcanaryco/atomic-red-team) [https://github.com/redcanaryco/atomic-red-team](https://github.com/redcanaryco/atomic-red-team)
-[FlareVM](https://github.com/mandiant/flare-vm) [https://github.com/mandiant/flare-vm](https://github.com/mandiant/flare-vm)
-Intall [Alienvault OTX](https://splunkbase.splunk.com/app/5878/) into Splunk [https://splunkbase.splunk.com/app/5878/](https://splunkbase.splunk.com/app/5878/)
-Infosec App for Splunk (Teach you what to look for as Analyst) [https://splunkbase.splunk.com/app/4240/](https://splunkbase.splunk.com/app/5878/)
 
 
 **Questions for the Infosec / It Recruiter\*\* Ask the recruiter what to expect.**
@@ -104,7 +106,7 @@ Infosec App for Splunk (Teach you what to look for as Analyst) [https://splunkb
 14.  Is there more money for hardware for the office equipment?
 
 
-**Secerutity Engineering / Threat Management / Security Operations Questions:**
+**Security** **Engineering / Threat Management / Security Operations Questions:**
 *   How many endpoints do you manage ?
 *   What is the mixture of devices on-premise and in the cloud?
 *   Are you a multi-cloud vendor?
@@ -119,4 +121,28 @@ Infosec App for Splunk (Teach you what to look for as Analyst) [https://splunkb
 *   How did you handle SolarWinds ?
 *   How did you handle Log4j ?
 *   Learning to [Defend Attack Defense Simulator \[SANS\]](https://github.com/splunk/attack_range ) 
+
+
+**Penetration Testing / Red Teaming Questions:**
+1.  What is the difference between blackbox testing?
+2.  What is the scope of work ?
+3.  What is the get out of jail free card?
+
+
+**Penetration Testing Tools:**
+[Kali Linux](https://www.kali.org/get-kali/)
+
+**Cybersecurity Analyst Questions**
+*   How good are you at Splunk ?  Download: [Splunk Enterprise](https://www.splunk.com/en_us/download/splunk-enterprise.html)
+*   Study: [Splunk Fundamentals 1](https://www.splunk.com/en_us/training/courses/splunk-fundamentals-1.html)
+*   How good are you at [ELK](https://www.elastic.co/downloads/) ?
+
+**Cybersecurity Analyst Tools:**
+*   Infosec App for Splunk (Teach you what to look for as Analyst) [https://splunkbase.splunk.com/app/4240/](https://splunkbase.splunk.com/app/5878/)
+*   [Splunk Security Essentials](https://www.splunk.com/en_us/software/cyber-security-essentials.html)
+*   Install [Alienvault OTX](https://splunkbase.splunk.com/app/5878/) into Splunk [https://splunkbase.splunk.com/app/5878/](https://splunkbase.splunk.com/app/5878/)
+*   [Attack Atomic Red Team](https://github.com/redcanaryco/atomic-red-team) [https://github.com/redcanaryco/atomic-red-team](https://github.com/redcanaryco/atomic-red-team)
+*   Download Security Onion Book - Doug Burks
+*   [BlueTeam VM](https://github.com/mandiant/flare-vm
+    )
 
