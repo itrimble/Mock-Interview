@@ -1,11 +1,12 @@
-# This is a series of questions to help prep candidates for various roles in cybersecurity.
+This is a series of questions to help prep candidates for various roles in cybersecurity.
 
 
 **Current Realities of the market**
-Management styles have had to change. Job seekers now, need to be prepared to see counter offers.
-[Security +](https://www.comptia.org/certifications/security) is the minium cert needed for an entry level job.
-Have you done research information about the Hiring Manager ?
-If travel is a priority make sure that you discuss this with your employer / hiring manager / recruiter.
+-  [ ] Management styles have had to change. Job seekers now, need to be prepared to see counter offers.
+-  [ ] [Security +](https://www.comptia.org/certifications/security) is the minium cert needed for an entry level job.
+-  [ ] Have you done research information about the Hiring Manager ?
+-  [ ] If travel is a priority make sure that you discuss this with your employer / hiring manager / recruiter.
+
 
 **Salary Information:**
 Ask yourself, how much are you worth ?
@@ -113,6 +114,7 @@ Salary pay ranges differ depending on where you live.  Salaries in the FAANG (F
 *   Do you have an EDR Solutions
 *   Are these tools integrated into the SIEM ?
 *   What SIEM are you using ?  Arcsight, Splunk, AlienVault, Nitro ? 
+*   Tech Stack:  DLP, EDR, Endpoint Encryption, AV, Mail Scanner, 
 
 
 **DFIR Role Questions**:
@@ -121,6 +123,16 @@ Salary pay ranges differ depending on where you live.  Salaries in the FAANG (F
 *   How did you handle SolarWinds ?
 *   How did you handle Log4j ?
 *   Learning to [Defend Attack Defense Simulator \[SANS\]](https://github.com/splunk/attack_range ) 
+
+DFIR Tool Stack
+*   SIEM: Splunk, McAfee Nitro
+*   Encase Forensics
+*   [FTK](https://www.exterro.com/forensic-toolkit)
+*   Volatility
+*   Rekall
+*   Books:  
+*   The Art of Memory Forensics
+*   Windows Rootkits
 
 
 **Penetration Testing / Red Teaming Questions:**
@@ -146,3 +158,44 @@ Salary pay ranges differ depending on where you live.  Salaries in the FAANG (F
 *   [BlueTeam VM](https://github.com/mandiant/flare-vm
     )
 
+
+
+Identify metrics
+Write Fuzers to uncover security issues
+
+Vulnerability Management Roles:
+When youa re given a CVE score of 7-10, which one are you going to investigate /remendiate first ?
+
+Technology Tools:
+*   [Nessus/Tenable](https://www.tenable.com/products/nessus)
+*   [Qualys](https://www.qualys.com/scanning-accuracy/)
+*   [OpenSCAP](https://www.open-scap.org)
+*   [Nexpose](https://www.rapid7.com/products/nexpose/)
+
+
+**Incident Response Role Questions:** 
+Can you create detection signatures for IOCs ?
+Where would you upload those hash values to see if you have an indicator of compromise?
+If you found malware on your workstation, how would you detonate it ? 
+
+Incident Respones Tools:
+*   [Yara Rules](https://yara.readthedocs.io/en/stable/writingrules.html)
+*   [ClamAV](https://www.clamav.net)
+*   IDS Rules
+*   Create MD5, Sha1 Rules
+*   [VirusTotal](https://www.virustotal.com/gui/home/upload)
+*   Joe’s Sandbox
+
+
+
+
+DevSecOps Role Questions
+
+What is the SDLC (Software Development Lifecylce)
+How would you integrate Security into the SDLC ?
+What kind of tools can you use to test web security ?
+
+*   [Burp Suite](https://portswigger.net/burp)
+*   WAF
+*   [Nekto Scanner](https://github.com/sullo/nikto)
+*   [Mod Security](https://github.com/SpiderLabs/ModSecurity)
