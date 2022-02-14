@@ -8,12 +8,12 @@ This is a series of questions to help prep candidates for various roles in cyber
 -  [ ] If travel is a priority make sure that you discuss this with your employer / hiring manager / recruiter.
 
 
-**Salary Information:**
+**Salary Information:**  
 Ask yourself, how much are you worth ?
 
 **Websites**
-1.  [Glassdoor](https://glassdoor.com) 
-2.  [Salary.com](https://salary.com https://www.levels.fyi/?compare=Google,Facebook,Microsoft&track=Software%20Engineer) 
+1.  [Glassdoor](https://glassdoor.com)
+2.  [Salary.com](https://salary.com https://www.levels.fyi/?compare=Google,Facebook,Microsoft&track=Software%20Engineer)
 
 
 **Questions to ask about Salary**
@@ -68,13 +68,15 @@ Salary pay ranges differ depending on where you live.  Salaries in the FAANG (F
 **Situational Question**:
 
 
-**Wrong answer: Don't blame the user directly.**
 
-1.  *When security gets in the way of business, who is wrong ?* Security should be seen as a business enabler
-2.  *If you were to start a security awareness program where would you start and think would be the biggest impact ?* Start with people education. You can make the program secure.
+
+1.  *When security gets in the way of business, who is wrong ?* Security should be seen as a business enabler. **Wrong answer: Don't blame the user directly.**
+2.  *If you were to start a security awareness program where would you start and think would be the biggest impact ?* **Start with people education. You can make the program secure.**
 3.  *If you were designing your enterprise users, would you give your users administrative access?*
 4.  *You find a user has cleared a log on their computer? How would you investigate this event? What is your methodology?*
 5.  *You get a ticket and find malware on it. The user swears they didn't do anything. The logs tell you they were the cause of the malware. How would you handle that situation? Possible Answers: They did not lock their keyboard.*
+6.  *You see the bash history file has been modified on a server.  What do you do next ?  What is your investigation methodology ?*
+7.  *You find evidence of meterpreter/msf in the antivirus logs.  How can you prove this is a true positive?*
 
 
 
@@ -92,7 +94,7 @@ Salary pay ranges differ depending on where you live.  Salaries in the FAANG (F
 **Questions to ask the Hiring Manager**
 1.  What problems are you trying to solve at the moment?
 2.  What are your biggest pain points?
-3.  What's the first project you'd like to see me take on as part of this role? What would help you most?" "
+3.  What's the first project you'd like to see me take on as part of this role? What would help you most?" 
 4.  What would surprise me about working with your (company/team/organization)?
 5.  What is something I can take off your plate, to free you for the big picture items?
 6.  Do you have an up-to-date asset inventory?
@@ -103,8 +105,10 @@ Salary pay ranges differ depending on where you live.  Salaries in the FAANG (F
 11.  Do you have a ransomware playbook / strategy ?
 12.  What is your flexible work option look like ? What are the expectations of the job ?  
     If travel is a priority make sure that you discuss this with your employer ?
-13.  What are the perks ? Is there money for faster internet ? Is there money for certifications?
+13.  What are the perks ? Is there money for faster internet ? Is there money for certifications?  Is there a training budget ?
 14.  Is there more money for hardware for the office equipment?
+15.  What does retention look like at this company?
+16.  When have you hired incorrectly?
 
 
 **Security** **Engineering / Threat Management / Security Operations Questions:**
@@ -116,13 +120,18 @@ Salary pay ranges differ depending on where you live.  Salaries in the FAANG (F
 *   What SIEM are you using ?  Arcsight, Splunk, AlienVault, Nitro ? 
 *   Tech Stack:  DLP, EDR, Endpoint Encryption, AV, Mail Scanner, 
 
+**Situational Questions:**
+If you had to push out DLP, how would you start and why ?  Good answer: Start with the data requirements.  
+Find out what data you have. Perform Interviews.  
+Are you beholden to any standards ?  PCI, PHI, HIPAA, GDPR.  Then you can do network discovery to find out where the data resides.  
 
 **DFIR Role Questions**:
-*   What tools would you use to look for persistence mechanisms? Autoruns, Task Scheduler, Registry, Boot sectors, Rootkit’s activity.
+*   What tools would you use to look for persistence mechanisms? Autoruns, Task Scheduler, Registry, Boot sectors, Rootkit’s activity, Windows Registry, Chron Jobs (Tasks) Process Explorer, Process Hacker, 
 *   Have you ever been through an incident ?
 *   How did you handle SolarWinds ?
 *   How did you handle Log4j ?
-*   Learning to [Defend Attack Defense Simulator \[SANS\]](https://github.com/splunk/attack_range ) 
+*   Learning to [Defend Attack Defense Simulator \[SANS\]](https://github.com/splunk/attack_range )
+*   What is an [APT ?](https://www.imperva.com/learn/application-security/apt-advanced-persistent-threat/) [APT Examples](https://www.ptsecurity.com/ww-en/analytics/advanced-persistent-threat-apt-attack-cost-report/#:~:text=Examples%20of%20groups%3A%20APT29%2C%20APT35%2C%20TEMP.Periscope%2C%20DarkHydrus%20Cyberespionage,the%20protection%20tools%20used%20by%20the%20target%20organization.) 
 
 DFIR Tool Stack
 *   SIEM: Splunk, McAfee Nitro
@@ -130,18 +139,25 @@ DFIR Tool Stack
 *   [FTK](https://www.exterro.com/forensic-toolkit)
 *   Volatility
 *   Rekall
-*   Books:  
+
+**Books:**  
 *   The Art of Memory Forensics
 *   Windows Rootkits
 
 
 **Penetration Testing / Red Teaming Questions:**
-1.  What is the difference between blackbox testing?
-2.  What is the scope of work ?
-3.  What is the get out of jail free card?
+
+1.  What is the scope of work ?
+2.  What is the get out of jail free card?
+3.  What tool would you use to perform an ARP spoofing attack?
+4.  What tool is good for a DOS ? [Hping3](http://www.hping.org/hping3.html)
+5.  What security measures would you add to prevent Brute Forcing attacks ?  Login attempt limitations, 2FA, Strong Passwords, Fail2Ban, PAM. 
+6.  Where would you configure the password complexity rules?
+7.  What is this called in Linux ?  ([PAM](https://www.beyondtrust.com/resources/glossary/privileged-access-management-pam))
+8.  What is the difference between a white box, black box, and gray box penetration test ? 
 
 
-**Penetration Testing Tools:**
+**Penetration Testing Tools:**  
 [Kali Linux](https://www.kali.org/get-kali/)
 
 **Cybersecurity Analyst Questions**
@@ -155,15 +171,15 @@ DFIR Tool Stack
 *   Install [Alienvault OTX](https://splunkbase.splunk.com/app/5878/) into Splunk [https://splunkbase.splunk.com/app/5878/](https://splunkbase.splunk.com/app/5878/)
 *   [Attack Atomic Red Team](https://github.com/redcanaryco/atomic-red-team) [https://github.com/redcanaryco/atomic-red-team](https://github.com/redcanaryco/atomic-red-team)
 *   Download Security Onion Book - Doug Burks
-*   [BlueTeam VM](https://github.com/mandiant/flare-vm
+*   \[BlueTeam VM\]([https://github.com/mandiant/flare-vm](https://github.com/mandiant/flare-vm)  
     )
 
 
 
-Identify metrics
+Identify metrics  
 Write Fuzers to uncover security issues
 
-Vulnerability Management Roles:
+Vulnerability Management Roles:  
 When youa re given a CVE score of 7-10, which one are you going to investigate /remendiate first ?
 
 Technology Tools:
@@ -173,10 +189,12 @@ Technology Tools:
 *   [Nexpose](https://www.rapid7.com/products/nexpose/)
 
 
-**Incident Response Role Questions:** 
-Can you create detection signatures for IOCs ?
-Where would you upload those hash values to see if you have an indicator of compromise?
+**Incident Response Role Questions:**  
+Can you create detection signatures for IOCs ?  
+Where would you upload those hash values to see if you have an indicator of compromise?  
 If you found malware on your workstation, how would you detonate it ? 
+You see evience that the [Bash Histor](https://unix.stackexchange.com/questions/145250/where-is-bashs-history-stored)[y](https://unix.stackexchange.com/questions/145250/where-is-bashs-history-stored)[](https://unix.stackexchange.com/questions/145250/where-is-bashs-history-stored) file was erased in one of your alerts.  What do you do next?  How would you discover who erased those logs ?
+You check your pager duty app on Friday at 5:00 pm. You see there are 2,00 alerts coming from your SIEM.  You normaly have 50 alerts at this time.  What is the first thing you do ?  Possible Answers:  Was there a change on the network ?  Confirm if these are false positives ?  Within how much time are they spaced apart ? then ask if this an authorized or unauthorized change.  
 
 Incident Respones Tools:
 *   [Yara Rules](https://yara.readthedocs.io/en/stable/writingrules.html)
@@ -184,15 +202,15 @@ Incident Respones Tools:
 *   IDS Rules
 *   Create MD5, Sha1 Rules
 *   [VirusTotal](https://www.virustotal.com/gui/home/upload)
-*   Joe’s Sandbox
+*   [Joe’s Sandbox](https://www.joesandbox.com/#windows)
 
 
 
 
 DevSecOps Role Questions
 
-What is the SDLC (Software Development Lifecylce)
-How would you integrate Security into the SDLC ?
+What is the SDLC (Software Development Lifecylce)  
+How would you integrate Security into the SDLC ?  
 What kind of tools can you use to test web security ?
 
 *   [Burp Suite](https://portswigger.net/burp)
