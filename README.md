@@ -25,7 +25,7 @@ Ask yourself, how much are you worth ?
 
 
 
-Salary pay ranges differ depending on where you live.  Salaries in the FAANG (Facebok, Apple, Amazon, Netflix, Google) tend to pay alot more than salaries in the middle of the country.  Salaries on the East Coast, Atlanta, NY, also tend to be higher.
+***NOTE*** Salary pay ranges differ depending on where you live.  Salaries in the FAANG (Facebok, Apple, Amazon, Netflix, Google) tend to pay alot more than salaries in the middle of the country.  Salaries on the East Coast, Atlanta, NY, also tend to be higher.
 
 **Culture Questions:**
 1.  What is the culture like?
@@ -66,10 +66,6 @@ Salary pay ranges differ depending on where you live.  Salaries in the FAANG (F
 
 
 **Situational Question**:
-
-
-
-
 1.  *When security gets in the way of business, who is wrong ?* Security should be seen as a business enabler. **Wrong answer: Don't blame the user directly.**
 2.  *If you were to start a security awareness program where would you start and think would be the biggest impact ?* **Start with people education. You can make the program secure.**
 3.  *If you were designing your enterprise users, would you give your users administrative access?*
@@ -171,15 +167,14 @@ DFIR Tool Stack
 *   Install [Alienvault OTX](https://splunkbase.splunk.com/app/5878/) into Splunk [https://splunkbase.splunk.com/app/5878/](https://splunkbase.splunk.com/app/5878/)
 *   [Attack Atomic Red Team](https://github.com/redcanaryco/atomic-red-team) [https://github.com/redcanaryco/atomic-red-team](https://github.com/redcanaryco/atomic-red-team)
 *   Download Security Onion Book - Doug Burks
-*   \[BlueTeam VM\]([https://github.com/mandiant/flare-vm](https://github.com/mandiant/flare-vm)  
-    )
+*   BlueTeam VM- [https://github.com/mandiant/flare-vm](https://github.com/mandiant/flare-vm)
 
 
 
 Identify metrics  
 Write Fuzers to uncover security issues
 
-Vulnerability Management Roles:  
+**Vulnerability Management Roles:**  
 When youa re given a CVE score of 7-10, which one are you going to investigate /remendiate first ?
 
 Technology Tools:
@@ -193,10 +188,11 @@ Technology Tools:
 Can you create detection signatures for IOCs ?  
 Where would you upload those hash values to see if you have an indicator of compromise?  
 If you found malware on your workstation, how would you detonate it ? 
-You see evience that the [Bash Histor](https://unix.stackexchange.com/questions/145250/where-is-bashs-history-stored)[y](https://unix.stackexchange.com/questions/145250/where-is-bashs-history-stored)[](https://unix.stackexchange.com/questions/145250/where-is-bashs-history-stored) file was erased in one of your alerts.  What do you do next?  How would you discover who erased those logs ?
-You check your pager duty app on Friday at 5:00 pm. You see there are 2,00 alerts coming from your SIEM.  You normaly have 50 alerts at this time.  What is the first thing you do ?  Possible Answers:  Was there a change on the network ?  Confirm if these are false positives ?  Within how much time are they spaced apart ? then ask if this an authorized or unauthorized change.  
+1.  You see evience that the [Bash Histor](https://unix.stackexchange.com/questions/145250/where-is-bashs-history-stored)[y](https://unix.stackexchange.com/questions/145250/where-is-bashs-history-stored)[](https://unix.stackexchange.com/questions/145250/where-is-bashs-history-stored) file was erased in one of your alerts.  What do you do next?  How would you discover who erased those logs ?
+2.  You check your pager duty app on Friday at 5:00 pm. You see there are 2,00 alerts coming from your SIEM.  You normaly have 50 alerts at this time.  What is the first thing you do ? ** Possible Answers:**  *Was there a change on the network ?  Confirm if these are false positives ?  Within how much time are they spaced apart ? then ask if this an authorized or unauthorized change.* 
 
-Incident Respones Tools:
+
+**Incident Respones Tools:**
 *   [Yara Rules](https://yara.readthedocs.io/en/stable/writingrules.html)
 *   [ClamAV](https://www.clamav.net)
 *   IDS Rules
@@ -204,15 +200,12 @@ Incident Respones Tools:
 *   [VirusTotal](https://www.virustotal.com/gui/home/upload)
 *   [Joe’s Sandbox](https://www.joesandbox.com/#windows)
 
+**DevSecOps Role Questions**
+1.  What is the SDLC (Software Development Lifecycle)
+2.  How would you integrate Security into the SDLC ?
+3.  What kind of tools can you use to test web security ?
 
-
-
-DevSecOps Role Questions
-
-What is the SDLC (Software Development Lifecylce)  
-How would you integrate Security into the SDLC ?  
-What kind of tools can you use to test web security ?
-
+**DevSecOps Tools**
 *   [Burp Suite](https://portswigger.net/burp)
 *   WAF
 *   [Nekto Scanner](https://github.com/sullo/nikto)
