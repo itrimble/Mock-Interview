@@ -1,4 +1,5 @@
-This is a series of questions to help prep candidates for various roles in cybersecurity.
+1.  This is a series of questions to help prep candidates for various roles in cybersecurity.
+
 
 
 **Current Realities of the market**
@@ -160,6 +161,36 @@ DFIR Tool Stack
 *   How good are you at Splunk ?  Download: [Splunk Enterprise](https://www.splunk.com/en_us/download/splunk-enterprise.html)
 *   Study: [Splunk Fundamentals 1](https://www.splunk.com/en_us/training/courses/splunk-fundamentals-1.html)
 *   How good are you at [ELK](https://www.elastic.co/downloads/) ?
+*   What is an IDS and how does it differ from an IPS ?
+*   What is the difference between encryption and hashing?
+*   What is a false positive and a false negative in the case of an IDS ?
+*   What are your thoughtss about Blue Team  and Red Team ? 
+*   What is data leakage and how will you protect and prevent it ?
+*   You have a user who needs admin rights on their system to do their daily tasks ?  What should be done ?  Should admin rights be granted or restricted?
+*   Explain a risk, vulnerability, and a threat ?
+*   What is the difference between an exploit and a vulnerability ?
+*   Tell me about your personal achivements or certifications ?
+*   How do you think your previous job skills translate to a job iin cybersecurity ? 
+*   How would you harden a web server ?
+*   What is a weak information security policy ?
+*   What is MAC spoofing ? Explain
+*   Tell me about some cyber attacks that recently happened ? 
+*   What is the Cyber Kill Chain ?  
+
+-  [ ] Reconnaissance
+-  [ ] Weaponizaton
+-  [ ] Delivery
+-  [ ] Exploitation
+-  [ ] Installation
+-  [ ] Command and Control
+-  [ ] Action on Objective
+
+*   What is the first thing you do when an attack occurs on the network ?
+*   Where do you get your cybersecurity news ?
+*   What is the MITRE Att&CK Framework ?
+*   What is the CIA Triad ? 
+*   How would you have handled the Log4j attack ?
+
 
 **Cybersecurity Analyst Tools:**
 *   Infosec App for Splunk (Teach you what to look for as Analyst) [https://splunkbase.splunk.com/app/4240/](https://splunkbase.splunk.com/app/5878/)
@@ -170,6 +201,16 @@ DFIR Tool Stack
 *   BlueTeam VM- [https://github.com/mandiant/flare-vm](https://github.com/mandiant/flare-vm)
 
 
+Security Analyst Tools:
+Graymatter
+
+Internal SOC Role:
+Customer: 
+If you wanted to get tuning done of the alerts, what 
+MTTR - Mean Time to Resolution
+MTTR - Mean Time to Respond
+
+Who covers them after the 5pm daytime shift ? 
 
 Identify metrics  
 Write Fuzers to uncover security issues
