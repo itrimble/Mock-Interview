@@ -1,4 +1,4 @@
-1.  This is a series of questions to help prep candidates for various roles in cybersecurity.
+*   This is a series of questions to help prep candidates for various roles in cybersecurity.
 
 
 
@@ -117,9 +117,9 @@ Ask yourself, how much are you worth ?
 *   What SIEM are you using ?  Arcsight, Splunk, AlienVault, Nitro ? 
 *   Tech Stack:  DLP, EDR, Endpoint Encryption, AV, Mail Scanner, 
 
-**Situational Questions:**
-If you had to push out DLP, how would you start and why ?  Good answer: Start with the data requirements.  
-Find out what data you have. Perform Interviews.  
+**Situational Questions:**  
+If you had to push out DLP, how would you start and why ?  Good answer: Start with the data requirements.    
+Find out what data you have. Perform Interviews.    
 Are you beholden to any standards ?  PCI, PHI, HIPAA, GDPR.  Then you can do network discovery to find out where the data resides.  
 
 **DFIR Role Questions**:
@@ -128,14 +128,16 @@ Are you beholden to any standards ?  PCI, PHI, HIPAA, GDPR.  Then you can do n
 *   How did you handle SolarWinds ?
 *   How did you handle Log4j ?
 *   Learning to [Defend Attack Defense Simulator \[SANS\]](https://github.com/splunk/attack_range )
-*   What is an [APT ?](https://www.imperva.com/learn/application-security/apt-advanced-persistent-threat/) [APT Examples](https://www.ptsecurity.com/ww-en/analytics/advanced-persistent-threat-apt-attack-cost-report/#:~:text=Examples%20of%20groups%3A%20APT29%2C%20APT35%2C%20TEMP.Periscope%2C%20DarkHydrus%20Cyberespionage,the%20protection%20tools%20used%20by%20the%20target%20organization.) 
+*   What is an [APT ?](https://www.imperva.com/learn/application-security/apt-advanced-persistent-threat/) [APT Examples](https://www.ptsecurity.com/ww-en/analytics/advanced-persistent-threat-apt-attack-cost-report/#:~:text=Examples%20of%20groups%3A%20APT29%2C%20APT35%2C%20TEMP.Periscope%2C%20DarkHydrus%20Cyberespionage,the%20protection%20tools%20used%20by%20the%20target%20organization.)
 
 DFIR Tool Stack
-*   SIEM: Splunk, McAfee Nitro
+*   SIEM: Splunk, McAfee Nitro, [Graylog](https://www.graylog.org/), 
 *   Encase Forensics
 *   [FTK](https://www.exterro.com/forensic-toolkit)
 *   Volatility
 *   Rekall
+*   Demisto/Cortex XSOAR
+*   Phantom
 
 **Books:**  
 *   The Art of Memory Forensics
@@ -156,6 +158,7 @@ DFIR Tool Stack
 
 **Penetration Testing Tools:**  
 [Kali Linux](https://www.kali.org/get-kali/)
+[Parrot Security](https://www.parrotsec.org/)
 
 **Cybersecurity Analyst Questions**
 *   How good are you at Splunk ?  Download: [Splunk Enterprise](https://www.splunk.com/en_us/download/splunk-enterprise.html)
@@ -166,7 +169,8 @@ DFIR Tool Stack
 *   What is a false positive and a false negative in the case of an IDS ?
 *   What are your thoughtss about Blue Team  and Red Team ? 
 *   What is data leakage and how will you protect and prevent it ?
-*   You have a user who needs admin rights on their system to do their daily tasks ?  What should be done ?  Should admin rights be granted or restricted?
+*   You have a user who needs admin rights on their system to do their daily tasks ?  What should be done ?  
+*   Should admin rights be granted or restricted?
 *   Explain a risk, vulnerability, and a threat ?
 *   What is the difference between an exploit and a vulnerability ?
 *   Tell me about your personal achivements or certifications ?
@@ -175,21 +179,29 @@ DFIR Tool Stack
 *   What is a weak information security policy ?
 *   What is MAC spoofing ? Explain
 *   Tell me about some cyber attacks that recently happened ? 
-*   What is the Cyber Kill Chain ?  
-
--  [ ] Reconnaissance
--  [ ] Weaponizaton
--  [ ] Delivery
--  [ ] Exploitation
--  [ ] Installation
--  [ ] Command and Control
--  [ ] Action on Objective
-
 *   What is the first thing you do when an attack occurs on the network ?
 *   Where do you get your cybersecurity news ?
 *   What is the MITRE Att&CK Framework ?
 *   What is the CIA Triad ? 
 *   How would you have handled the Log4j attack ?
+
+
+What are the stages of the incident response lifecycle?
+1.  Preperation
+2.  Detection & Analysis
+3.  Containment Eradication & Recovery
+4.  Post-Incident Activity (After Action Reports, Lessons Learned)
+
+
+
+What is the Cyber Kill Chain ?  
+1.  Reconnaissance
+2.  Weaponizaton
+3.  Delivery
+4.  Exploitation
+5.  Installation
+6.  Command and Control
+7.  Action on Objective
 
 
 **Cybersecurity Analyst Tools:**
@@ -201,17 +213,15 @@ DFIR Tool Stack
 *   BlueTeam VM- [https://github.com/mandiant/flare-vm](https://github.com/mandiant/flare-vm)
 
 
-Security Analyst Tools:
+Security Analyst Tools:  
 Graymatter
 
-Internal SOC Role:
-Customer: 
-If you wanted to get tuning done of the alerts, what 
-MTTR - Mean Time to Resolution
+**Internal SOC Role:**  
+Who is the customer?   
+If you wanted to get tuning done of the alerts, where should you start and why ?  
+MTTR - Mean Time to Resolution  
 MTTR - Mean Time to Respond
-
 Who covers them after the 5pm daytime shift ? 
-
 Identify metrics  
 Write Fuzers to uncover security issues
 
@@ -230,7 +240,7 @@ Can you create detection signatures for IOCs ?
 Where would you upload those hash values to see if you have an indicator of compromise?  
 If you found malware on your workstation, how would you detonate it ? 
 1.  You see evience that the [Bash Histor](https://unix.stackexchange.com/questions/145250/where-is-bashs-history-stored)[y](https://unix.stackexchange.com/questions/145250/where-is-bashs-history-stored)[](https://unix.stackexchange.com/questions/145250/where-is-bashs-history-stored) file was erased in one of your alerts.  What do you do next?  How would you discover who erased those logs ?
-2.  You check your pager duty app on Friday at 5:00 pm. You see there are 2,00 alerts coming from your SIEM.  You normaly have 50 alerts at this time.  What is the first thing you do ? ** Possible Answers:**  *Was there a change on the network ?  Confirm if these are false positives ?  Within how much time are they spaced apart ? then ask if this an authorized or unauthorized change.* 
+2.  You check your pager duty app on Friday at 5:00 pm. You see there are 2,00 alerts coming from your SIEM.  You normaly have 50 alerts at this time.  What is the first thing you do ? ** Possible Answers:**  *Was there a change on the network ?  Confirm if these are false positives ?  Within how much time are they spaced apart ? then ask if this an authorized or unauthorized change.*
 
 
 **Incident Respones Tools:**
@@ -240,6 +250,12 @@ If you found malware on your workstation, how would you detonate it ? 
 *   Create MD5, Sha1 Rules
 *   [VirusTotal](https://www.virustotal.com/gui/home/upload)
 *   [Joe’s Sandbox](https://www.joesandbox.com/#windows)
+
+
+**Incident Response Practice**  
+[Over The Wire](https://overthewire.org/wargames/)  
+[Hack The Box](https://www.hackthebox.com/)  
+[Try Hack Me](https://tryhackme.com/)
 
 **DevSecOps Role Questions**
 1.  What is the SDLC (Software Development Lifecycle)
