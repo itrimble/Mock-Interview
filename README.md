@@ -15,6 +15,7 @@ Ask yourself, how much are you worth ?
 **Websites**
 1.  [Glassdoor](https://glassdoor.com)
 2.  [Salary.com](https://salary.com https://www.levels.fyi/?compare=Google,Facebook,Microsoft&track=Software%20Engineer)
+3.  [Levels.fyi](https://www.levels.fyi/?compare=Google,Facebook,Microsoft&track=Software%20Engineer)
 
 
 **Questions to ask about Salary**
@@ -24,6 +25,9 @@ Ask yourself, how much are you worth ?
     Is there an annual bonus?
 4.  Are there annual merit increases?
 
+
+Cybersecurity Tech Practice
+[Trend Micro - Fugle](http://targetedattacks.trendmicro.com/cyoa/en/#) 
 
 
 ***NOTE*** Salary pay ranges differ depending on where you live.  Salaries in the FAANG (Facebok, Apple, Amazon, Netflix, Google) tend to pay alot more than salaries in the middle of the country.  Salaries on the East Coast, Atlanta, NY, also tend to be higher.
@@ -106,6 +110,8 @@ Ask yourself, how much are you worth ?
 14.  Is there more money for hardware for the office equipment?
 15.  What does retention look like at this company?
 16.  When have you hired incorrectly?
+17.  How did the company respond to Covid ?  What were the lessons learned ?
+18.  Is there a hybrid opportunity ?
 
 
 **Security** **Engineering / Threat Management / Security Operations Questions:**
@@ -121,6 +127,22 @@ Ask yourself, how much are you worth ?
 If you had to push out DLP, how would you start and why ?  Good answer: Start with the data requirements.    
 Find out what data you have. Perform Interviews.    
 Are you beholden to any standards ?  PCI, PHI, HIPAA, GDPR.  Then you can do network discovery to find out where the data resides.  
+
+Behavior
+What does your existing background help you in a Cybersecurity Position ?
+
+**Transferrable Skills**
+Risk Management
+
+Fraud
+
+Merchant Disputes
+
+Customer Service Skills
+
+Inventory
+
+
 
 **DFIR Role Questions**:
 *   What tools would you use to look for persistence mechanisms? Autoruns, Task Scheduler, Registry, Boot sectors, Rootkit’s activity, Windows Registry, Chron Jobs (Tasks) Process Explorer, Process Hacker, 
@@ -138,10 +160,14 @@ DFIR Tool Stack
 *   Rekall
 *   Demisto/Cortex XSOAR
 *   Phantom
+*   [Awesome DFIR Tooling](https://awesomedfir.com/dfir-tooling)
+*   [analyzeMFT](https://github.com/dkovar/analyzeMFT)
 
 **Books:**  
 *   The Art of Memory Forensics
 *   Windows Rootkits
+*   Windows SysInternals 1
+*   Windows SysInternals 2
 
 
 **Penetration Testing / Red Teaming Questions:**
@@ -157,7 +183,7 @@ DFIR Tool Stack
 
 
 **Penetration Testing Tools:**  
-[Kali Linux](https://www.kali.org/get-kali/)
+[Kali Linux](https://www.kali.org/get-kali/)  
 [Parrot Security](https://www.parrotsec.org/)
 
 **Cybersecurity Analyst Questions**
@@ -167,14 +193,14 @@ DFIR Tool Stack
 *   What is an IDS and how does it differ from an IPS ?
 *   What is the difference between encryption and hashing?
 *   What is a false positive and a false negative in the case of an IDS ?
-*   What are your thoughtss about Blue Team  and Red Team ? 
+*   What are your thoughts about Blue Team  and Red Team ? 
 *   What is data leakage and how will you protect and prevent it ?
 *   You have a user who needs admin rights on their system to do their daily tasks ?  What should be done ?  
 *   Should admin rights be granted or restricted?
 *   Explain a risk, vulnerability, and a threat ?
 *   What is the difference between an exploit and a vulnerability ?
 *   Tell me about your personal achivements or certifications ?
-*   How do you think your previous job skills translate to a job iin cybersecurity ? 
+*   How do you think your previous/current job skills translate to a job in cybersecurity ? 
 *   How would you harden a web server ?
 *   What is a weak information security policy ?
 *   What is MAC spoofing ? Explain
@@ -184,6 +210,15 @@ DFIR Tool Stack
 *   What is the MITRE Att&CK Framework ?
 *   What is the CIA Triad ? 
 *   How would you have handled the Log4j attack ?
+*   What tool in linux would you use to filter text ?  - Grep
+*   What command can you use in linux to view all resources in Linux - top, ps aux
+*   What does this mean CHMOD 777 ?
+*   Hw do you remove a folder in Linux ?  rmdir 
+*   How do you remove a file in Linux ? rm -f
+*   How can you view hidden files in Linux ? ls -a
+*   If you want to connect to another computer securely, what protocol do you use ?  SSH
+*   What is this command ?  dig google.com (DNS Query for a domain)
+*   What does Zero Trust mean ?
 
 
 What are the stages of the incident response lifecycle?
@@ -193,6 +228,14 @@ What are the stages of the incident response lifecycle?
 4.  Post-Incident Activity (After Action Reports, Lessons Learned)
 
 
+What is the OSI Model ?
+Physical
+Data Link
+Network
+Transport
+Session 
+Presentaiton
+Application 
 
 What is the Cyber Kill Chain ?  
 1.  Reconnaissance
@@ -220,8 +263,8 @@ Graymatter
 Who is the customer?   
 If you wanted to get tuning done of the alerts, where should you start and why ?  
 MTTR - Mean Time to Resolution  
-MTTR - Mean Time to Respond
-Who covers them after the 5pm daytime shift ? 
+MTTR - Mean Time to Respond  
+Who covers them after the 5pm daytime shift ?   
 Identify metrics  
 Write Fuzers to uncover security issues
 
@@ -233,6 +276,12 @@ Technology Tools:
 *   [Qualys](https://www.qualys.com/scanning-accuracy/)
 *   [OpenSCAP](https://www.open-scap.org)
 *   [Nexpose](https://www.rapid7.com/products/nexpose/)
+
+Cloud
+[How To Get Free Azure Subscription $200](https://youtu.be/43QTaT8c2FQ)
+
+
+Azure
 
 
 **Incident Response Role Questions:**  
