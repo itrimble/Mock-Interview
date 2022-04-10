@@ -1,5 +1,4 @@
-*   This is a series of questions to help prep candidates for various roles in cybersecurity.
-
+This is a series of questions and knowledge broken down by domain to help prep candidates for various roles in cybersecurity.
 
 
 **Current Realities of the market**
@@ -7,78 +6,6 @@
 -  [ ] [Security +](https://www.comptia.org/certifications/security) is the minium cert needed for an entry level job.
 -  [ ] Have you done research information about the Hiring Manager ?
 -  [ ] If travel is a priority make sure that you discuss this with your employer / hiring manager / recruiter.
-
-
-**Salary Information:**  
-Ask yourself, how much are you worth ?
-
-**Websites**
-1.  [Glassdoor](https://glassdoor.com)
-2.  [Salary.com](https://salary.com https://www.levels.fyi/?compare=Google,Facebook,Microsoft&track=Software%20Engineer)
-3.  [Levels.fyi](https://www.levels.fyi/?compare=Google,Facebook,Microsoft&track=Software%20Engineer)
-
-
-**Questions to ask about Salary**
-1.  What is the salary range?
-2.  Are there (RSU) - Restricted Stock Units ?
-3.  Is there a relocation package?  
-    Is there an annual bonus?
-4.  Are there annual merit increases?
-
-
-Cybersecurity Tech Practice
-[Trend Micro - Fugle](http://targetedattacks.trendmicro.com/cyoa/en/#) 
-
-
-***NOTE*** Salary pay ranges differ depending on where you live.  Salaries in the FAANG (Facebok, Apple, Amazon, Netflix, Google) tend to pay alot more than salaries in the middle of the country.  Salaries on the East Coast, Atlanta, NY, also tend to be higher.
-
-**Culture Questions:**
-1.  What is the culture like?
-2.  What is keeping you here ?
-3.  Where do you think the company can improve?
-4.  Can you give me an example of when the leadership went above and beyond your expectations?
-
-
-**Mock Interview Questions**
-
-1.  What type of job do your want ? IT Audit GRC Security Engineer / Security Operations / Threat Defense Engineering SOC Analyist \[Tier1, Tier2, Tier3\] Penetration Testing Threat Hunter Threat Intel Analyst
-2.  Do you want to work for an MSSP ? (Managed Security Service Provider) How do you feel about being a SE (Sales Engineer)
-3.  Do you have a home lab?
-4.  Do you have a portfolio?
-5.  What Skillsets Do You Want To Work On ? DLP, SIEM, Threat Hunting, Endpoint (AV, EDR)
-6.  What got you into cybersecurity?
-7.  What sectors are big where you live?
-8.  Is this a backfill?
-9.  Is this a new role?
-10.  Are you targeting the healthcare sector ? Are you targeting the energy sector?
-11.  Lean in on the customer service skills you have already developed.
-12.  What was your most challenging class ? What was the call you liked the most? What class grabbed you / spoke to you the best? Ex: Cloud is someone's servers.
-13.  What would you use traceroute for ? When would you want to use Windows Server-Core vs. Windows Server w/Gui ? Smaller Footpirnt, Reduced Attack Surface, More Resource Efficient often Managed with RSAT
-14.  Does Windows Server / Active Directory use DNS ?
-15.  What is the difference between a hybrid cloud and a public cloud? Hybrid Cloud can be used by public and private. Private Cloud is used by organization.
-16.  Give me an example of SAAS ? Office 365, Dropbox, Sharefile, OneDrive. Adobe Creative Cloud How do you find out where you are in Linux from the CLI ? PWD
-17.  How do you create a file in Linux ? Touch file 1 file 2
-18.  What port is remote desktop on ? 3389
-19.  What port is SSL on? What port is SSH on ? 22
-20.  What is more secure HTTPS vs HTML ?
-21.  What is your flexible work option look like ? What are the expectations of the job ?  
-    What are the perks ?
-22.  Is there money for faster internet ?
-23.  Is there money for certifications?
-24.  Is there more money for hardware for the office equipment?
-
-
-
-
-**Situational Question**:
-1.  *When security gets in the way of business, who is wrong ?* Security should be seen as a business enabler. **Wrong answer: Don't blame the user directly.**
-2.  *If you were to start a security awareness program where would you start and think would be the biggest impact ?* **Start with people education. You can make the program secure.**
-3.  *If you were designing your enterprise users, would you give your users administrative access?*
-4.  *You find a user has cleared a log on their computer? How would you investigate this event? What is your methodology?*
-5.  *You get a ticket and find malware on it. The user swears they didn't do anything. The logs tell you they were the cause of the malware. How would you handle that situation? Possible Answers: They did not lock their keyboard.*
-6.  *You see the bash history file has been modified on a server.  What do you do next ?  What is your investigation methodology ?*
-7.  *You find evidence of meterpreter/msf in the antivirus logs.  How can you prove this is a true positive?*
-
 
 
 **Questions for the Infosec / It Recruiter\*\* Ask the recruiter what to expect.**
@@ -112,6 +39,72 @@ Cybersecurity Tech Practice
 16.  When have you hired incorrectly?
 17.  How did the company respond to Covid ?  What were the lessons learned ?
 18.  Is there a hybrid opportunity ?
+19.  What is your flexible work option look like ? What are the expectations of the job ?  
+    What are the perks ?
+20.  Is there money for faster internet ?
+21.  Is there money for certifications?
+22.  Is there more money for hardware for the office equipment?
+
+
+**Salary Information:**  
+Ask yourself, how much are you worth ? Salary pay ranges differ depending on where you live.  Salaries in the FAANG (Facebok, Apple, Amazon, Netflix, Google) tend to pay alot more than salaries in the middle of the country.  Salaries on the East Coast, Atlanta, NY, also tend to be higher.
+
+**Websites**
+1.  [Glassdoor](https://glassdoor.com)
+2.  [Salary.com](https://salary.com https://www.levels.fyi/?compare=Google,Facebook,Microsoft&track=Software%20Engineer)
+3.  [Levels.fyi](https://www.levels.fyi/?compare=Google,Facebook,Microsoft&track=Software%20Engineer)
+
+
+**Questions to ask about Salary**
+1.  What is the salary range?
+2.  Are there (RSU) - Restricted Stock Units ?
+3.  Is there a relocation package?  
+    Is there an annual bonus?
+4.  Are there annual merit increases?
+
+
+Cybersecurity Tech Practice
+[Trend Micro - Fugle](http://targetedattacks.trendmicro.com/cyoa/en/#) 
+
+
+**Culture Questions:**
+1.  What is the culture like?
+2.  What is keeping you here ?
+3.  Where do you think the company can improve?
+4.  Can you give me an example of when the leadership went above and beyond your expectations?
+
+
+**General Mock Interview Questions**
+
+1.  What type of job do your want ? IT Audit GRC Security Engineer / Security Operations / Threat Defense Engineering SOC Analyist \[Tier1, Tier2, Tier3\] Penetration Testing Threat Hunter Threat Intel Analyst
+2.  Do you want to work for an MSSP ? (Managed Security Service Provider) How do you feel about being a SE (Sales Engineer)
+3.  Do you have a home lab?
+4.  Do you have a portfolio?
+5.  What Skillsets Do You Want To Work On ? DLP, SIEM, Threat Hunting, Endpoint (AV, EDR)
+6.  What got you into cybersecurity?
+7.  What sectors are big where you live?
+8.  Are you targeting the healthcare sector ? Are you targeting the energy sector?
+9.  Lean in on the customer service skills you have already developed.
+10.  What was your most challenging class ? What was the call you liked the most? What class grabbed you / spoke to you the best? Ex: Cloud is someone's servers.
+11.  What would you use traceroute for ? When would you want to use Windows Server-Core vs. Windows Server w/Gui ? Smaller Footpirnt, Reduced Attack Surface, More Resource Efficient often Managed with RSAT
+12.  Does Windows Server / Active Directory use DNS ?
+13.  What is the difference between a hybrid cloud and a public cloud? Hybrid Cloud can be used by public and private. Private Cloud is used by organization.
+14.  Give me an example of SAAS ? Office 365, Dropbox, Sharefile, OneDrive. Adobe Creative Cloud
+15.  How do you find out where you are in Linux from the CLI ? PWD
+16.  How do you create a file in Linux ? Touch file 1 file 2
+17.  What port is remote desktop on ? 3389
+18.  What port is SSL on? What port is SSH on ? 22
+19.  What is more secure HTTPS vs HTML ?
+
+
+**Situational Question**:
+1.  *When security gets in the way of business, who is wrong ?* Security should be seen as a business enabler. **Wrong answer: Don't blame the user directly.**
+2.  *If you were to start a security awareness program where would you start and think would be the biggest impact ?* **Start with people education. You can make the program secure.**
+3.  *If you were designing security access for your enterprise users, would you give your users administrative access?*
+4.  *You find a user has cleared a log on their computer? How would you investigate this event? What is your methodology?*
+5.  *You get a ticket and find malware on it. The user swears they didn't do anything. The logs tell you they were the cause of the malware. How would you handle that situation? Possible Answers: They did not lock their keyboard.*
+6.  *You see the bash history file has been modified on a server.  What do you do next ?  What is your investigation methodology ?*
+7.  *You find evidence of meterpreter/msf in the antivirus logs.  How can you prove this is a true positive?*
 
 
 **Security** **Engineering / Threat Management / Security Operations Questions:**
@@ -133,16 +126,10 @@ What does your existing background help you in a Cybersecurity Position ?
 
 **Transferrable Skills**
 Risk Management
-
 Fraud
-
 Merchant Disputes
-
 Customer Service Skills
-
 Inventory
-
-
 
 **DFIR Role Questions**:
 *   What tools would you use to look for persistence mechanisms? Autoruns, Task Scheduler, Registry, Boot sectors, Rootkit’s activity, Windows Registry, Chron Jobs (Tasks) Process Explorer, Process Hacker, 
@@ -150,18 +137,19 @@ Inventory
 *   How did you handle SolarWinds ?
 *   How did you handle Log4j ?
 *   Learning to [Defend Attack Defense Simulator \[SANS\]](https://github.com/splunk/attack_range )
-*   What is an [APT ?](https://www.imperva.com/learn/application-security/apt-advanced-persistent-threat/) [APT Examples](https://www.ptsecurity.com/ww-en/analytics/advanced-persistent-threat-apt-attack-cost-report/#:~:text=Examples%20of%20groups%3A%20APT29%2C%20APT35%2C%20TEMP.Periscope%2C%20DarkHydrus%20Cyberespionage,the%20protection%20tools%20used%20by%20the%20target%20organization.)
+*   What is an [APT ?](https://www.imperva.com/learn/application-security/apt-advanced-persistent-threat/) [APT Examples](https://www.ptsecurity.com/ww-en/analytics/advanced-persistent-threat-apt-attack-cost-report/#:~:text=Examples%20of%20groups%3A%20APT29%2C%20APT35%2C%20TEMP.Periscope%2C%20DarkHydrus%20Cyberespionage,the%20protection%20tools%20used%20by%20the%20target%20organization.).  Advanced Persistent Threat - **[An advanced persistent threat is a stealthy threat actor, typically a nation state or state-sponsored group, which gains unauthorized access to a computer network and remains undetected for an extende…](http://en.wikipedia.org/wiki/Advanced_persistent_threat "en.wikipedia.org")**
 
 DFIR Tool Stack
 *   SIEM: Splunk, McAfee Nitro, [Graylog](https://www.graylog.org/), 
 *   Encase Forensics
 *   [FTK](https://www.exterro.com/forensic-toolkit)
-*   Volatility
-*   Rekall
+*   [Volatility](https://www.volatilityfoundation.org/)
+*   [Rekall](https://github.com/google/rekall)
 *   Demisto/Cortex XSOAR
-*   Phantom
+*   [Phantom](https://my.phantom.us/)
 *   [Awesome DFIR Tooling](https://awesomedfir.com/dfir-tooling)
 *   [analyzeMFT](https://github.com/dkovar/analyzeMFT)
+*   [DFIR Tooling](https://awesomedfir.com/dfir-tooling)
 
 **Books:**  
 *   The Art of Memory Forensics
@@ -201,6 +189,7 @@ DFIR Tool Stack
 *   What is the difference between an exploit and a vulnerability ?
 *   Tell me about your personal achivements or certifications ?
 *   How do you think your previous/current job skills translate to a job in cybersecurity ? 
+*   What does your existing background help you in a Cybersecurity Position ?
 *   How would you harden a web server ?
 *   What is a weak information security policy ?
 *   What is MAC spoofing ? Explain
@@ -219,6 +208,7 @@ DFIR Tool Stack
 *   If you want to connect to another computer securely, what protocol do you use ?  SSH
 *   What is this command ?  dig google.com (DNS Query for a domain)
 *   What does Zero Trust mean ?
+*   What is a CMDB ? (IT Asset Inventory, Applications, Knowledge)
 
 
 What are the stages of the incident response lifecycle?
@@ -229,13 +219,14 @@ What are the stages of the incident response lifecycle?
 
 
 What is the OSI Model ?
-Physical
-Data Link
-Network
-Transport
-Session 
-Presentaiton
-Application 
+*   Physical  - The physical layer is responsible for the physical cable or wireless connection between network nodes. It defines the connector, the electrical cable or wireless technology connecting the devices, and is responsible for transmission of the raw data, which is simply a series of 0s and 1s, while taking care of bit rate control.
+*   Data Link
+*   Network
+*   Transport
+*   Session 
+*   Presentaiton
+*   Application 
+
 
 What is the Cyber Kill Chain ?  
 1.  Reconnaissance
@@ -292,13 +283,14 @@ If you found malware on your workstation, how would you detonate it ? 
 2.  You check your pager duty app on Friday at 5:00 pm. You see there are 2,00 alerts coming from your SIEM.  You normaly have 50 alerts at this time.  What is the first thing you do ? ** Possible Answers:**  *Was there a change on the network ?  Confirm if these are false positives ?  Within how much time are they spaced apart ? then ask if this an authorized or unauthorized change.*
 
 
-**Incident Respones Tools:**
+**Incident Response Tools:**
 *   [Yara Rules](https://yara.readthedocs.io/en/stable/writingrules.html)
 *   [ClamAV](https://www.clamav.net)
 *   IDS Rules
 *   Create MD5, Sha1 Rules
 *   [VirusTotal](https://www.virustotal.com/gui/home/upload)
 *   [Joe’s Sandbox](https://www.joesandbox.com/#windows)
+*   [ANYRUN](https://any.run/)
 
 
 **Incident Response Practice**  
@@ -316,3 +308,41 @@ If you found malware on your workstation, how would you detonate it ? 
 *   WAF
 *   [Nekto Scanner](https://github.com/sullo/nikto)
 *   [Mod Security](https://github.com/SpiderLabs/ModSecurity)
+
+**Linux Notes**
+[Goalkicker - LinuxBook](https://goalkicker.com/LinuxBook/)
+
+**Powershell Notes**
+[Goalkicker - Powershell Notes For Professionals](https://goalkicker.com/PowerShellBook/PowerShellNotesForProfessionals.pdf)
+[Learn Powershell in a month of lunches](https://www.manning.com/books/learn-powershell-in-a-month-of-lunches)
+
+
+**Threat Intel**
+[OpenCTI](https://www.opencti.io/en/)
+[MISP](https://www.misp-project.org/)
+[RITA](https://github.com/activecm/rita)
+
+**Consultants**
+Booz Allen Hamilton
+Ernst & Young
+AlixPartners
+Clearview Consultants
+Deloitte
+
+
+**Recruiters I Recommend**
+[Zilker Partners](https://zilkerpartners.com/services/tech-and-it-recruiting/)
+[Stott & May](https://www.stottandmay.com/)
+[Oliver James](https://www.oliverjames.com/)
+Desmond Cook
+
+Resume Writing Services
+Storeyline Resumes
+Richard Drosin
+TopResume
+
+Ciso Training
+FSecure
+
+CISO Recruititing
+[Hitch Partners](https://www.hitchpartners.com)
