@@ -161,19 +161,20 @@ Cybersecurity Tech Practice
 *   Tech Stack:  DLP, EDR, Endpoint Encryption, AV, Mail Scanner, 
 
 **Situational Questions:**  
-If you had to push out DLP, how would you start and why ?  Good answer: Start with the data requirements.    
-Find out what data you have. Perform Interviews.    
+If you had to push out DLP, how would you start and why ?  Good answer: Start with the data requirements. Find out what data you have. Perform Interviews.  
+
 Are you beholden to any standards ?  PCI, PHI, HIPAA, GDPR.  Then you can do network discovery to find out where the data resides.  
 
-Behavior
+Behavior Questions
 What does your existing background help you in a Cybersecurity Position ?
 
 **Transferrable Skills**
-Risk Management
-Fraud
-Merchant Disputes
-Customer Service Skills
-Inventory
+*   Risk Management
+*   Fraud
+*   Merchant Disputes
+*   Customer Service Skills
+*   Inventory
+
 
 **DFIR Role Questions**:
 *   What tools would you use to look for persistence mechanisms? Autoruns, Task Scheduler, Registry, Boot sectors, Rootkit’s activity, Windows Registry, Chron Jobs (Tasks) Process Explorer, Process Hacker, 
@@ -294,7 +295,7 @@ What is the Cyber Kill Chain ?  
 *   BlueTeam VM- [https://github.com/mandiant/flare-vm](https://github.com/mandiant/flare-vm)
 
 
-Security Analyst Tools:  
+**Security Analyst Tools:**  
 Graymatter
 
 **Internal SOC Role:**  
@@ -374,12 +375,13 @@ Threat Hunting Resources
 [Paul Jeremy](https://pauljerimy.com/security-certification-roadmap/)
 
 **Threat Intel**
-[OpenCTI](https://www.opencti.io/en/)
-[MISP](https://www.misp-project.org/)
-[RITA](https://github.com/activecm/rita)
+*   [OpenCTI](https://www.opencti.io/en/)
+*   [MISP](https://www.misp-project.org/)
+*   [RITA](https://github.com/activecm/rita)
+
 
 **Consultants**
-[Managed Consulting](https://managementconsulted.com)
+[Managed Consulting](https://managementconsulted.com) - Resource
 Booz Allen Hamilton
 Ernst & Young
 AlixPartners
@@ -389,41 +391,45 @@ Deloitte
 CISSP Resources
 [CISSP Mentor Program](https://frsecure.com/cissp-mentor-program/)
 
-**Recruiters I Recommend**
-[Zilker Partners](https://zilkerpartners.com/services/tech-and-it-recruiting/)
-[Stott & May](https://www.stottandmay.com/)
-[Oliver James](https://www.oliverjames.com/)
-Desmond Cook
+**IT Recruiters I Recommend**
+1.  [Zilker Partners](https://zilkerpartners.com/services/tech-and-it-recruiting/)
+2.  [Stott & May](https://www.stottandmay.com/)
+3.  [Oliver James](https://www.oliverjames.com/)
+4.  Desmond Cook
+
 
 **Resume Writing Services**
-[Storeyline Resumes](https://storeylineresumes.com/)
-Richard Drosin - [RDO Resumes](https://rdroresumes.com/)
-[TopResume](https://www.topresume.com/)
-[Resume Tips (Reddit Thread) - Well Worth The Read](https://www.reddit.com/r/jobs/comments/7y8k6p/im_an_exrecruiter_for_some_of_the_top_companies/)
+1.  [Storeyline Resumes](https://storeylineresumes.com/)
+2.  Richard Drosin - [RDO Resumes](https://rdroresumes.com/)
+3.  [TopResume](https://www.topresume.com/)
+4.  [Resume Tips (Reddit Thread) - Well Worth The Read](https://www.reddit.com/r/jobs/comments/7y8k6p/im_an_exrecruiter_for_some_of_the_top_companies/)
+
 
 **Sample Resume** 
 [Sheets & Giggles Resume](https://1drv.ms/u/s!AnbiVlU6SdYbiOIO2cpOMzwUnIqrfg?e=FqEqYD)
 
-Ciso Training
-FSecure
+**Ciso Training**
+*   FSecure
+*   [Microsoft CISO](https://docs.microsoft.com/en-us/security/ciso-workshop/ciso-workshop)
 
-CISO Recruititing
+
+**CISO Recruititing**
 [Hitch Partners](https://www.hitchpartners.com)
 
-Job Huntil Tools
+**Job HuntingTools**
 [Create a Pro & Cons List](https://www.indeed.com/career-advice/career-development/pros-and-cons-list)
 
 
-Free Training:
-[AWS](https://aws.amazon.com/training/digital/)
-[Google Cloud](https://inthecloud.withgoogle.com/cloud-learning-paths-22/register.html)
-[Microsoft CISO](https://docs.microsoft.com/en-us/security/ciso-workshop/ciso-workshop)
-[𝗚𝗲𝗼𝗿𝗴𝗶𝗮 𝗧𝗲𝗰𝗵 𝗙𝗿𝗲𝗲 𝗖𝘆𝗯𝗲𝗿𝘀𝗲𝗰𝘂𝗿𝗶𝘁𝘆 𝗟𝗲𝗰𝘁𝘂𝗿𝗲 𝗦𝗲𝗿𝗶𝗲𝘀](https://primetime.bluejeans.com/a2m/register/kyhdjqfp)
-[ISO 27001](https://www.youtube.com/playlist?list=PLboNZ8lgLkUjg353Am3x4SytHme-XDL2N) (YouTube)
-[GRC Skills](https://simplycyber.teachable.com/) - Gerald Auger
+**Free IT/Cyber Training:**
+*   [AWS](https://aws.amazon.com/training/digital/)
+*   [Google Cloud](https://inthecloud.withgoogle.com/cloud-learning-paths-22/register.html)
+*   [𝗚𝗲𝗼𝗿𝗴𝗶𝗮 𝗧𝗲𝗰𝗵 𝗙𝗿𝗲𝗲 𝗖𝘆𝗯𝗲𝗿𝘀𝗲𝗰𝘂𝗿𝗶𝘁𝘆 𝗟𝗲𝗰𝘁𝘂𝗿𝗲 𝗦𝗲𝗿𝗶𝗲𝘀](https://primetime.bluejeans.com/a2m/register/kyhdjqfp)
+*   [ISO 27001](https://www.youtube.com/playlist?list=PLboNZ8lgLkUjg353Am3x4SytHme-XDL2N) (YouTube)
+*   [GRC Skills](https://simplycyber.teachable.com/) - Gerald Auger
+
 
 [Security Awareness Training](https://www.curricula.com/)  Curricula (Free for up to 1,000 Employees)
 
 
-Splunk 
+**Splunk** 
 [Alienvault OTX Ingestion Tutorial](https://pfarrside.com/video_turotials/06-splunk-ioc-threat-feed-open-threat-exchange/#:~:text=The%20OTX%20Add-on%20requires%20a%20splunk%20account%20to,details%20and%20some%20feeds%20that%20you%E2%80%99re%20subscribed%20to)
