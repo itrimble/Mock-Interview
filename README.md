@@ -45,9 +45,53 @@ This is a series of questions and knowledge broken down by domain to help prep c
 21.  Is there money for certifications?
 22.  Is there more money for hardware for the office equipment?
 
+**Questions to ask your Manager** 
+1.  [What happens or how do you work if somebody doesn’t agree with you ?](https://www.youtube.com/watch?v=ihZJy9L4ew8)
+2.  Steve Jobs Answer: I just explain it to them until they understand. 
+3.  Give me your definition of \[Job Title\] goes here. 
 
-**Salary Information:**  
-Ask yourself, how much are you worth ? Salary pay ranges differ depending on where you live.  Salaries in the FAANG (Facebok, Apple, Amazon, Netflix, Google) tend to pay alot more than salaries in the middle of the country.  Salaries on the East Coast, Atlanta, NY, also tend to be higher.
+
+**Consulting: Things to think about**
+*   A good consultant is a good listener first.
+*   A good consultant can present ideas and perspective that would otherwise be hidden, due to that wider field of experience. 
+*   How invested are you in the long term value of your recommendations? 
+*   The truth is that you aren’t going to own the results unless they reflect greatly on yourself.
+*   Are you going to develop any scar tissue from the ramifications of the recommendations?
+*   Companies tend to value the ideas of consultants over the ideas of their employees ?  Why do you think that is?
+*   Devils’s Advocate:  If employees were adequate, the consultants would never be called.
+*   If consultants don’t have skin in the game, management never feels threatened with someone below them in the corporate heirarchy.
+*   The real truth wish that external consultants usually come back with the same conclusion that staff do.
+*   Senior executives like to use consultants in order to avoid the blame for anything that doesn’t go well.
+*   A big reason to bring in a consultnant and pay them is to legitimisse what management already wants to do.  By having an “indpendent expert” third party say what it is that you want to do, the company can say that the course of action recommended and implemented by the consultant is based on ‘expert advice’.
+*   **Hard** **Truth**: Feelings don’t matter in information security.
+*   I can’t secure the things I know I don’t have.
+*   Always look for places where you can simplify
+*   Look for Duplication (Applications, Hardware)
+*   If I can simplify things, I can save the company $$ (Quick Wins) - You will start to justify your existence even more.
+*   Look for complex processes (Over engineered companies)
+*   Look for areas of complexity
+*   CISO’s are expecting their budget to increase.
+
+
+**Quetions clients ask**
+1.  What is cybersecurity?
+2.  What is information security ?
+3.  What is privacy ?  - Are they treated as the same discipline or different disciplines?
+4.  What is compliance ?  - Most of the money is spent here !
+5.  Will information security make me more money?  - If you do it right, the answer is YES. It doesn’t have to be a cost center.
+6.  What is a framework ?
+7.  Do you have a solid asset inventory ?  Don’t take the answer of it is FLUID.
+8.  Where should I spend my next $$ ?
+9.  Why Should I Care ?
+10.  Are we spending our money wisely/well ?  Hard Truth: Not Likely (Very common for organizations to talk about $$) - Really crappy justification for doing security.  Did you waste $20 million and have the breach ?
+
+
+
+*   **Salary Information:**  
+    Ask yourself, how much are you worth ?
+*   Salary pay ranges differ depending on where you live.  
+*   Salaries in the FAANG (Facebok, Apple, Amazon, Netflix, Google) tend to pay alot more than salaries in the middle of the country.  Salaries on the East Coast, Atlanta, NY, also tend to be higher.
+
 
 **Websites**
 1.  [Glassdoor](https://glassdoor.com)
@@ -150,6 +194,8 @@ DFIR Tool Stack
 *   [Awesome DFIR Tooling](https://awesomedfir.com/dfir-tooling)
 *   [analyzeMFT](https://github.com/dkovar/analyzeMFT)
 *   [DFIR Tooling](https://awesomedfir.com/dfir-tooling)
+*   [Magnet Forensics - Ram Capture](https://www.magnetforensics.com/resources/magnet-ram-capture/)
+*   [Windows Prefetch Video](https://www.youtube.com/watch?v=-Lp22bRS5oc)
 
 **Books:**  
 *   The Art of Memory Forensics
@@ -181,6 +227,7 @@ DFIR Tool Stack
 *   What is an IDS and how does it differ from an IPS ?
 *   What is the difference between encryption and hashing?
 *   What is a false positive and a false negative in the case of an IDS ?
+*   Give me your definition of information security / cybersecurity.
 *   What are your thoughts about Blue Team  and Red Team ? 
 *   What is data leakage and how will you protect and prevent it ?
 *   You have a user who needs admin rights on their system to do their daily tasks ?  What should be done ?  
@@ -198,7 +245,7 @@ DFIR Tool Stack
 *   Where do you get your cybersecurity news ?
 *   What is the MITRE Att&CK Framework ?
 *   What is the CIA Triad ? 
-*   How would you have handled the Log4j attack ?
+*   How would you have handled the Log4j/Log4shell attack ?
 *   What tool in linux would you use to filter text ?  - Grep
 *   What command can you use in linux to view all resources in Linux - top, ps aux
 *   What does this mean CHMOD 777 ?
@@ -298,6 +345,9 @@ If you found malware on your workstation, how would you detonate it ? 
 [Hack The Box](https://www.hackthebox.com/)  
 [Try Hack Me](https://tryhackme.com/)
 
+Threat Hunting Resources
+[AwesomeOpenSource - Threat Hunting](https://awesomeopensource.com/projects/threat-hunting)
+
 **DevSecOps Role Questions**
 1.  What is the SDLC (Software Development Lifecycle)
 2.  How would you integrate Security into the SDLC ?
@@ -316,6 +366,12 @@ If you found malware on your workstation, how would you detonate it ? 
 [Goalkicker - Powershell Notes For Professionals](https://goalkicker.com/PowerShellBook/PowerShellNotesForProfessionals.pdf)
 [Learn Powershell in a month of lunches](https://www.manning.com/books/learn-powershell-in-a-month-of-lunches)
 
+**Malware Analyis**
+[Practical Malware Analysis Video](https://www.youtube.com/watch?v=20xYpxe8mBg)
+[IDA Pro (Free Version)](https://hex-rays.com/ida-free/)
+
+**Security Certification Roadmap**
+[Paul Jeremy](https://pauljerimy.com/security-certification-roadmap/)
 
 **Threat Intel**
 [OpenCTI](https://www.opencti.io/en/)
@@ -323,12 +379,15 @@ If you found malware on your workstation, how would you detonate it ? 
 [RITA](https://github.com/activecm/rita)
 
 **Consultants**
+[Managed Consulting](https://managementconsulted.com)
 Booz Allen Hamilton
 Ernst & Young
 AlixPartners
 Clearview Consultants
 Deloitte
 
+CISSP Resources
+[CISSP Mentor Program](https://frsecure.com/cissp-mentor-program/)
 
 **Recruiters I Recommend**
 [Zilker Partners](https://zilkerpartners.com/services/tech-and-it-recruiting/)
@@ -336,13 +395,35 @@ Deloitte
 [Oliver James](https://www.oliverjames.com/)
 Desmond Cook
 
-Resume Writing Services
-Storeyline Resumes
-Richard Drosin
-TopResume
+**Resume Writing Services**
+[Storeyline Resumes](https://storeylineresumes.com/)
+Richard Drosin - [RDO Resumes](https://rdroresumes.com/)
+[TopResume](https://www.topresume.com/)
+[Resume Tips (Reddit Thread) - Well Worth The Read](https://www.reddit.com/r/jobs/comments/7y8k6p/im_an_exrecruiter_for_some_of_the_top_companies/)
+
+**Sample Resume** 
+[Sheets & Giggles Resume](https://1drv.ms/u/s!AnbiVlU6SdYbiOIO2cpOMzwUnIqrfg?e=FqEqYD)
 
 Ciso Training
 FSecure
 
 CISO Recruititing
 [Hitch Partners](https://www.hitchpartners.com)
+
+Job Huntil Tools
+[Create a Pro & Cons List](https://www.indeed.com/career-advice/career-development/pros-and-cons-list)
+
+
+Free Training:
+[AWS](https://aws.amazon.com/training/digital/)
+[Google Cloud](https://inthecloud.withgoogle.com/cloud-learning-paths-22/register.html)
+[Microsoft CISO](https://docs.microsoft.com/en-us/security/ciso-workshop/ciso-workshop)
+[𝗚𝗲𝗼𝗿𝗴𝗶𝗮 𝗧𝗲𝗰𝗵 𝗙𝗿𝗲𝗲 𝗖𝘆𝗯𝗲𝗿𝘀𝗲𝗰𝘂𝗿𝗶𝘁𝘆 𝗟𝗲𝗰𝘁𝘂𝗿𝗲 𝗦𝗲𝗿𝗶𝗲𝘀](https://primetime.bluejeans.com/a2m/register/kyhdjqfp)
+[ISO 27001](https://www.youtube.com/playlist?list=PLboNZ8lgLkUjg353Am3x4SytHme-XDL2N) (YouTube)
+[GRC Skills](https://simplycyber.teachable.com/) - Gerald Auger
+
+[Security Awareness Training](https://www.curricula.com/)  Curricula (Free for up to 1,000 Employees)
+
+
+Splunk 
+[Alienvault OTX Ingestion Tutorial](https://pfarrside.com/video_turotials/06-splunk-ioc-threat-feed-open-threat-exchange/#:~:text=The%20OTX%20Add-on%20requires%20a%20splunk%20account%20to,details%20and%20some%20feeds%20that%20you%E2%80%99re%20subscribed%20to)
