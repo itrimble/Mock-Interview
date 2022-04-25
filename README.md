@@ -1,4 +1,5 @@
-This is a series of questions and knowledge broken down by domain to help prep candidates for various roles in cybersecurity.
+1.  This is a series of questions and knowledge broken down by domain to help prep candidates for various roles in cybersecurity.
+
 
 
 **Current Realities of the market**
@@ -21,29 +22,40 @@ This is a series of questions and knowledge broken down by domain to help prep c
 
 **Questions to ask the Hiring Manager**
 1.  What problems are you trying to solve at the moment?
-2.  What are your biggest pain points?
-3.  What's the first project you'd like to see me take on as part of this role? What would help you most?" 
-4.  What would surprise me about working with your (company/team/organization)?
-5.  What is something I can take off your plate, to free you for the big picture items?
-6.  Do you have an up-to-date asset inventory?
-7.  Do you have a CMDB?
-8.  Is your asset inventory your vulnerability scanner or do you have something professional? How are you currently mapping risk ? To what controls ?
-9.  How do you measure success in your company ?
-10.  Tips: What is your story arc ? Who are the heroes and the villains ? How did you overcome failure ? Do you follow the STAR method?
-11.  Do you have a ransomware playbook / strategy ?
-12.  What is your flexible work option look like ? What are the expectations of the job ?  
+2.  Can you explain the job in your own words ?
+3.  What makes this role available?
+4.  How do you measure success for this role?
+5.  What does this role need to accomplish in the first 90 days?
+6.  What have been the biggest challenges for this role?
+7.  What are your biggest pain points?
+8.  I see you’ve been at the company for X years.  How has your role evolved ? How has the company evolved?
+9.  What's the first project you'd like to see me take on as part of this role? What would help you most?" 
+10.  What would surprise me about working with your (company/team/organization)?
+11.  What is something I can take off your plate, to free you for the big picture items?
+12.  Why did you join the company and is your experience what you expected?
+13.  Who will I be working with most closely ?
+14.  What is the Boss’ leadership style?
+15.  What are the team dynamic like?
+16.  What are the team members work styles?
+17.  Do you have an up-to-date asset inventory?
+18.  Do you have a CMDB?
+19.  Is your asset inventory your vulnerability scanner or do you have something professional? How are you currently mapping risk ? To what controls ?
+20.  How do you measure success in your company ?
+21.  Tips: What is your story arc ? Who are the heroes and the villains ? How did you overcome failure ? Do you follow the STAR method?
+22.  Do you have a ransomware playbook / strategy ?
+23.  What is your flexible work option look like ? What are the expectations of the job ?  
     If travel is a priority make sure that you discuss this with your employer ?
-13.  What are the perks ? Is there money for faster internet ? Is there money for certifications?  Is there a training budget ?
-14.  Is there more money for hardware for the office equipment?
-15.  What does retention look like at this company?
-16.  When have you hired incorrectly?
-17.  How did the company respond to Covid ?  What were the lessons learned ?
-18.  Is there a hybrid opportunity ?
-19.  What is your flexible work option look like ? What are the expectations of the job ?  
+24.  What are the perks ? Is there money for faster internet ? Is there money for certifications?  Is there a training budget ?
+25.  Is there more money for hardware for the office equipment?
+26.  What does retention look like at this company?
+27.  When have you hired incorrectly?
+28.  How did the company respond to Covid ?  What were the lessons learned ?
+29.  Is there a hybrid opportunity ?
+30.  What is your flexible work option look like ? What are the expectations of the job ?  
     What are the perks ?
-20.  Is there money for faster internet ?
-21.  Is there money for certifications?
-22.  Is there more money for hardware for the office equipment?
+31.  Is there money for faster internet ?
+32.  Is there money for certifications?
+33.  Is there more money for hardware for the office equipment?
 
 **Questions to ask your Manager** 
 1.  [What happens or how do you work if somebody doesn’t agree with you ?](https://www.youtube.com/watch?v=ihZJy9L4ew8)
@@ -165,8 +177,57 @@ If you had to push out DLP, how would you start and why ?  Good answer: Start w
 
 Are you beholden to any standards ?  PCI, PHI, HIPAA, GDPR.  Then you can do network discovery to find out where the data resides.  
 
-Behavior Questions
+**Behavior Questions**
 What does your existing background help you in a Cybersecurity Position ?
+**P.A.R** - Problem - Action - Resolution.   These usually start with Tell me about a time…..
+*   When you had to deal with a difficult person.
+*   When you had a tough problem to solve.
+*   What do you do outside of work for fun ?
+*   How would your previous colleagues, clients or supervisors describe you?
+*   Tell me about a time you led a team. How would you describe your leadership style?
+
+*   What do you consider your biggest accomplishment?
+*   Tell me about a time you failed, and what you learned from it.
+*   What are your professional strengths?
+*   What are your professional weaknesses? What have you done to work on them?
+*   Tell me about a time when you set a goal and achieved it.
+*   How do you handle disagreements at work?
+*   How do you manage meeting strict deadlines or working under pressure?
+*   Tell me why you want to be a consultant.
+
+
+**Tips:**
+**Put yourself in the shoes of the interviewer and give them what they want, and what they are looking for from the successful candidate, you will pass your interview.** 
+The interviewer wants 3 things:
+1.  Someone who is positive and enthusiastic: smile, speak up.  Don’t be monotone or negative. 
+2.  Someone who is self sufficient.  SOmeone who can work in a team structure. Someone who can make decisions. 
+3.  Someone who can plan, organize, and prioritize their work.  Employers don’t want to spend their time constantly babysitting.
+
+Have an example of making a difficult a decision on your own.
+Have examples for all of these. 
+THey want someone who will go above and beyond what is expected.
+Are you willing to do tasks outside of your comfort zone to stay late if needed?
+You are always flexibible and go above and beyond.
+
+**5 words you should use in your interview.**
+1.  Instead of saying I’m a good team worker say : In this role, I will always colloborate with my co-workers to ensure we quickly meet the team’s objectives. (Colloborate is far more powerful than team work).
+2.  Instead of saying I am hardworking say this instead: In my work, I am always DILIGENT, CONSCIENTIOUS, and I will never miss a deadline.
+3.  Instead of saying I am professional say this instead: Whilst carrying out my duties I will always be COMPETENT and PROFICIENT.
+4.  Instead of saying I am a good problem solver, say this instead: I am always SOLUTION-ORIENTED whilst dealing witch challenges and problems.
+5.  Instead of saying I have high standards, say this instead: I am a DETAIL-ORIENTED PERSON who can be relied upon to adhere to all company policies and procedures. 
+
+
+**One of the hardest Interview Quesitons You Will Have To Answer:  WHY SHOULD WE HIRE YOU?**
+You should hire me for several reasons. I am a very positive person who enjoys the challenge of working on difficult tasks and projects.  Over the years, I have built up numerous transferrable skills and qualities that I believe are a solid match for this job description.  I have experience working alone and collaborating as part of a team. I  am a solid communicator who will take good care of your customers and clienets, and I will always go above and beyond what is expected in this role.
+
+You should hire me because I appreciate you have worked hard to build your/this business and being someone who is adaptable to change, I can be relied upon to support your long-term commercial goals.
+
+You should also hire me because I am a fast learner. This means you won’t have to spend your valuable time closely monitoring or supervising me.
+
+Finally, you should hire me because I will always take care of my ongoing professional development. This means the skills and knowledge I possess will always be purposeful and relevant to the position. 
+
+
+
 
 **Transferrable Skills**
 *   Risk Management
@@ -184,7 +245,7 @@ What does your existing background help you in a Cybersecurity Position ?
 *   Learning to [Defend Attack Defense Simulator \[SANS\]](https://github.com/splunk/attack_range )
 *   What is an [APT ?](https://www.imperva.com/learn/application-security/apt-advanced-persistent-threat/) [APT Examples](https://www.ptsecurity.com/ww-en/analytics/advanced-persistent-threat-apt-attack-cost-report/#:~:text=Examples%20of%20groups%3A%20APT29%2C%20APT35%2C%20TEMP.Periscope%2C%20DarkHydrus%20Cyberespionage,the%20protection%20tools%20used%20by%20the%20target%20organization.).  Advanced Persistent Threat - **[An advanced persistent threat is a stealthy threat actor, typically a nation state or state-sponsored group, which gains unauthorized access to a computer network and remains undetected for an extende…](http://en.wikipedia.org/wiki/Advanced_persistent_threat "en.wikipedia.org")**
 
-DFIR Tool Stack
+**DFIR Tool Stack**
 *   SIEM: Splunk, McAfee Nitro, [Graylog](https://www.graylog.org/), 
 *   Encase Forensics
 *   [FTK](https://www.exterro.com/forensic-toolkit)
@@ -259,14 +320,14 @@ DFIR Tool Stack
 *   What is a CMDB ? (IT Asset Inventory, Applications, Knowledge)
 
 
-What are the stages of the incident response lifecycle?
+**What are the stages of the incident response lifecycle?**
 1.  Preperation
 2.  Detection & Analysis
 3.  Containment Eradication & Recovery
 4.  Post-Incident Activity (After Action Reports, Lessons Learned)
 
 
-What is the OSI Model ?
+**What is the OSI Model ?**
 *   Physical  - The physical layer is responsible for the physical cable or wireless connection between network nodes. It defines the connector, the electrical cable or wireless technology connecting the devices, and is responsible for transmission of the raw data, which is simply a series of 0s and 1s, while taking care of bit rate control.
 *   Data Link
 *   Network
@@ -276,7 +337,7 @@ What is the OSI Model ?
 *   Application 
 
 
-What is the Cyber Kill Chain ?  
+**What is the Cyber Kill Chain ?** 
 1.  Reconnaissance
 2.  Weaponizaton
 3.  Delivery
@@ -426,9 +487,8 @@ CISSP Resources
 *   [𝗚𝗲𝗼𝗿𝗴𝗶𝗮 𝗧𝗲𝗰𝗵 𝗙𝗿𝗲𝗲 𝗖𝘆𝗯𝗲𝗿𝘀𝗲𝗰𝘂𝗿𝗶𝘁𝘆 𝗟𝗲𝗰𝘁𝘂𝗿𝗲 𝗦𝗲𝗿𝗶𝗲𝘀](https://primetime.bluejeans.com/a2m/register/kyhdjqfp)
 *   [ISO 27001](https://www.youtube.com/playlist?list=PLboNZ8lgLkUjg353Am3x4SytHme-XDL2N) (YouTube)
 *   [GRC Skills](https://simplycyber.teachable.com/) - Gerald Auger
+*   [Security Awareness Training](https://www.curricula.com/)  Curricula (Free for up to 1,000 Employees)
 
-
-[Security Awareness Training](https://www.curricula.com/)  Curricula (Free for up to 1,000 Employees)
 
 
 **Splunk** 
