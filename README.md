@@ -196,6 +196,43 @@ What does your existing background help you in a Cybersecurity Position ?
 *   Tell me why you want to be a consultant.
 
 
+ABILITY TO HANDLE STRESS
+ 
+What has been the most stressful situation you have ever found yourself in at work? How did you handle it?
+ 
+What have you done in the past to prevent a situation from becoming too stressful for you or your colleagues to handle?
+ 
+ADAPTABILITY
+ 
+Tell me about a situation in which you have had to adjust to changes over which you had no control. How did you handle it?
+ 
+Tell me about a time when you had to adjust to a colleague’s working style in order to complete a project or achieve your objectives.
+ 
+How was your transition from high school to university? Did you face any particular problems? How did you handle them?
+
+
+ATTENTION TO DETAIL
+ 
+What process do you use to check that you have the right details from a customer?
+ 
+Give me an example of a time you discovered an error that been overlooked by a colleague. What did you do? What was the outcome?
+ 
+Tell me about a time that you were confused by a customer’s request. What steps did you take to clarify things?
+ 
+CLIENT FOCUS / CUSTOMER ORIENTATION
+ 
+When have you had to deal with an irate customer? What did you do? How did the situation end up?
+ 
+Tell me about a time you have “inherited” a customer. What steps did you take to establish rapport with them? What did you do to gain their trust?
+ 
+How have you handled a situation in the past where your client has changed the brief or “changed the goalposts”?
+ 
+Give an example of a time you went well out of your way to ensure a customer received the best possible service from you and organization. What was their reaction?
+ 
+When have you ever gone out on a limb to defend a customer? What happened?
+
+
+
 **Tips:**
 **Put yourself in the shoes of the interviewer and give them what they want, and what they are looking for from the successful candidate, you will pass your interview.** 
 The interviewer wants 3 things:
