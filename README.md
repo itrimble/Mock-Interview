@@ -94,7 +94,7 @@ This is a comprehensive resource for cybersecurity job preparation, including in
 15. What is the team dynamic like?
 16. What are the team members' work styles?
 17. Do you have an up-to-date asset inventory?
-18. Do you have a CMDB?
+18. Do you have a [CMDB](https://www.atlassian.com/itsm/itil/cmdb)?
 19. Is your asset inventory your vulnerability scanner or do you have something professional? How are you currently mapping risk? To what controls?
 20. How do you measure success in your company?
 21. Do you have a ransomware playbook/strategy?
@@ -359,7 +359,7 @@ Are you beholden to any standards? PCI, PHI, HIPAA, GDPR. Then you can do networ
 * Tell me about some cyber attacks that recently happened?
 * What is the first thing you do when an attack occurs on the network?
 * Where do you get your cybersecurity news?
-* What is the MITRE ATT&CK Framework?
+* What is the [MITRE ATT&CK Framework](https://attack.mitre.org/)?
 * What is the CIA Triad?
 * How would you have handled the Log4j/Log4shell attack?
 * What tool in Linux would you use to filter text? - Grep
@@ -405,7 +405,7 @@ Are you beholden to any standards? PCI, PHI, HIPAA, GDPR. Then you can do networ
 12. How do you balance security with development velocity?
 
 ### Cloud Security Role Questions
-1. What's your experience with AWS/Azure/GCP security services?
+1. What's your experience with [AWS](https://aws.amazon.com/)/[Azure](https://azure.microsoft.com/)/[GCP](https://cloud.google.com/) security services?
 2. How do you approach cloud security architecture?
 3. What's your methodology for securing cloud environments?
 4. How do you handle identity and access management in the cloud?
@@ -444,8 +444,10 @@ Are you beholden to any standards? PCI, PHI, HIPAA, GDPR. Then you can do networ
 6. Command and Control
 7. Actions on Objectives
 
+Learn more about the [Cyber Kill Chain](https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html) from Lockheed Martin.
+
 ### MITRE ATT&CK Framework
-The MITRE ATT&CK (Adversarial Tactics, Techniques, and Common Knowledge) Framework is a globally-accessible knowledge base of adversary tactics and techniques based on real-world observations. It provides a common language for describing attacker behaviors and helps organizations improve their security posture.
+The [MITRE ATT&CK](https://attack.mitre.org/) (Adversarial Tactics, Techniques, and Common Knowledge) Framework is a globally-accessible knowledge base of adversary tactics and techniques based on real-world observations. It provides a common language for describing attacker behaviors and helps organizations improve their security posture.
 
 Key components:
 * **Tactics**: The tactical goals of an adversary (the "why" of an attack technique)
@@ -474,17 +476,19 @@ Implementation involves:
 * Continuous monitoring and validation
 * Policy-based access controls
 
+Learn more from [NIST Special Publication 800-207](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-207.pdf) on Zero Trust Architecture.
+
 ## Professional Tools by Role
 
 ### DFIR Tool Stack
-* **SIEM**: Splunk, McAfee Nitro, [Graylog](https://www.graylog.org/)
+* **SIEM**: [Splunk](https://www.splunk.com/), [McAfee Nitro](https://www.mcafee.com/enterprise/en-us/), [Graylog](https://www.graylog.org/)
 * **Forensic Tools**:
-  * Encase Forensics
+  * [Encase Forensics](https://www.opentext.com/products/encase-forensic)
   * [FTK](https://www.exterro.com/forensic-toolkit)
   * [Volatility](https://www.volatilityfoundation.org/)
   * [Rekall](https://github.com/google/rekall)
 * **Orchestration Platforms**:
-  * Demisto/Cortex XSOAR
+  * [Demisto/Cortex XSOAR](https://www.paloaltonetworks.com/cortex/cortex-xsoar)
   * [Phantom](https://my.phantom.us/)
 * **Other Tools**:
   * [Awesome DFIR Tooling](https://awesomedfir.com/dfir-tooling)
@@ -575,20 +579,20 @@ Implementation involves:
 ## Learning Resources
 
 ### Books
-* The Art of Memory Forensics
-* Windows Rootkits
-* Windows SysInternals 1
-* Windows SysInternals 2
-* Practical Malware Analysis
-* CISSP All-in-One Exam Guide by Shon Harris
-* The Web Application Hacker's Handbook
-* Blue Team Handbook by Don Murdoch
-* Penetration Testing: A Hands-On Introduction to Hacking by Georgia Weidman
-* The Hacker Playbook series by Peter Kim
-* Red Team Field Manual (RTFM) by Ben Clark
-* Blue Team Field Manual (BTFM) by Alan White and Ben Clark
-* Applied Cryptography by Bruce Schneier
-* The Phoenix Project by Gene Kim
+* [The Art of Memory Forensics](https://www.amazon.com/Art-Memory-Forensics-Detecting-Malware/dp/1118825098)
+* [Windows Rootkits](https://www.amazon.com/Rootkits-Subverting-Windows-Greg-Hoglund/dp/0321294319)
+* [Windows SysInternals Administrator's Reference](https://www.amazon.com/Windows-Sysinternals-Administrators-Reference-Russinovich/dp/073565672X)
+* [Troubleshooting with the Windows Sysinternals Tools](https://www.amazon.com/Troubleshooting-Windows-Sysinternals-Tools-2nd/dp/0735684448)
+* [Practical Malware Analysis](https://www.amazon.com/Practical-Malware-Analysis-Hands-Dissecting/dp/1593272901)
+* [CISSP All-in-One Exam Guide by Shon Harris](https://www.amazon.com/CISSP-All-One-Guide-Eighth/dp/1260142655)
+* [The Web Application Hacker's Handbook](https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470)
+* [Blue Team Handbook by Don Murdoch](https://www.amazon.com/Blue-Team-Handbook-condensed-Operations/dp/1726273989)
+* [Penetration Testing: A Hands-On Introduction to Hacking by Georgia Weidman](https://www.amazon.com/Penetration-Testing-Hands-Introduction-Hacking/dp/1593275641)
+* [The Hacker Playbook series by Peter Kim](https://www.amazon.com/Hacker-Playbook-Practical-Penetration-Testing/dp/1494932636)
+* [Red Team Field Manual (RTFM) by Ben Clark](https://www.amazon.com/Rtfm-Red-Team-Field-Manual/dp/1494295504)
+* [Blue Team Field Manual (BTFM) by Alan White and Ben Clark](https://www.amazon.com/Blue-Team-Field-Manual-BTFM/dp/1548710377)
+* [Applied Cryptography by Bruce Schneier](https://www.amazon.com/Applied-Cryptography-Protocols-Algorithms-Source/dp/1119096723)
+* [The Phoenix Project by Gene Kim](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/1942788290)
 
 ### Linux Notes
 [Goalkicker - LinuxBook](https://goalkicker.com/LinuxBook/)
@@ -605,19 +609,19 @@ Implementation involves:
 [Paul Jeremy's Security Certification Roadmap](https://pauljerimy.com/security-certification-roadmap/)
 
 Key certifications to consider:
-* CompTIA Security+
-* CompTIA CySA+
-* CompTIA PenTest+
-* EC-Council Certified Ethical Hacker (CEH)
-* GIAC Security Essentials (GSEC)
-* GIAC Certified Incident Handler (GCIH)
-* GIAC Certified Forensic Analyst (GCFA)
-* Offensive Security Certified Professional (OSCP)
-* Certified Information Systems Security Professional (CISSP)
-* Certified Cloud Security Professional (CCSP)
-* CISM (Certified Information Security Manager)
-* SANS various certificates
-* Cloud-specific certifications (AWS, Azure, GCP)
+* [CompTIA Security+](https://www.comptia.org/certifications/security)
+* [CompTIA CySA+](https://www.comptia.org/certifications/cybersecurity-analyst)
+* [CompTIA PenTest+](https://www.comptia.org/certifications/pentest)
+* [EC-Council Certified Ethical Hacker (CEH)](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/)
+* [GIAC Security Essentials (GSEC)](https://www.giac.org/certification/security-essentials-gsec)
+* [GIAC Certified Incident Handler (GCIH)](https://www.giac.org/certification/certified-incident-handler-gcih)
+* [GIAC Certified Forensic Analyst (GCFA)](https://www.giac.org/certification/certified-forensic-analyst-gcfa)
+* [Offensive Security Certified Professional (OSCP)](https://www.offensive-security.com/pwk-oscp/)
+* [(ISC)² Certified Information Systems Security Professional (CISSP)](https://www.isc2.org/Certifications/CISSP)
+* [(ISC)² Certified Cloud Security Professional (CCSP)](https://www.isc2.org/Certifications/CCSP)
+* [ISACA Certified Information Security Manager (CISM)](https://www.isaca.org/credentialing/cism)
+* [SANS various certificates](https://www.sans.org/cyber-security-certifications/)
+* Cloud-specific certifications ([AWS](https://aws.amazon.com/certification/), [Azure](https://learn.microsoft.com/en-us/certifications/), [GCP](https://cloud.google.com/certification))
 
 ### Free IT/Cyber Training
 * [AWS](https://aws.amazon.com/training/digital/)
@@ -646,7 +650,6 @@ Key certifications to consider:
 * [RangeForce](https://www.rangeforce.com/)
 * [SANS Cyber Ranges](https://www.sans.org/cyber-ranges/)
 * [VulnHub](https://www.vulnhub.com/)
-* [HackTheBox](https://www.hackthebox.com/)
 
 ## Job Search Resources
 
